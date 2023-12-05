@@ -13,7 +13,7 @@ All the cool projects I worked on during the TripleTen Data Science bootcamp. Yo
 | [9]( ) | Machine Learning in Business | To be updated | To be updated
 | [8]( ) | Supervised Learning | To be updated | To be updated
 | [7]( ) | Introduction to Machine Learning | To be updated | To be updated
-| [6]( ) | Data Colleciton and Storage (SQL) | To be updated | To be updated
+| [6](https://github.com/mattamx/TripleTen_projects/blob/01eb961f950bc99b5ff2ee5a65c311719e8c2f1f/Sprint%206%20-%20Data%20Collection%20and%20Storage%20(SQL)/README.md) | Data Colleciton and Storage (SQL) | To be updated | To be updated
 | [5](https://github.com/mattamx/TripleTen_projects/blob/cf86c0ae8638a6cf72cc005e20b90f51b1dbd8ed/Sprint%205%20-%20Integrated%20Project%201/README.md) | Integrated Project 1 | To be updated | To be updated
 | [4](https://github.com/mattamx/TripleTen_projects/blob/19b873d92882dabf966086be620250e96363933b/Sprint%204%20-%20Software%20Development%20Tools/README.md) | Software Development Tools | To be updated | To be updated
 | [3](https://github.com/mattamx/TripleTen_projects/blob/ec989cfe1cbfe2d32398463d7fc96f95491f7b69/Sprint%203%20-%20Statistical%20Data%20Analysis/README.md) | Statistical Data Analysis | To be updated | To be updated
