@@ -18,6 +18,6 @@ All the cool projects I worked on during the TripleTen Data Science bootcamp. Yo
 | [4]( ) | Software Development Tools | To be updated | To be updated
 | [3]( ) | Statistical Data Analysis | To be updated | To be updated
 | [2]( ) | Exploratory Data Analysis | To be updated | To be updated
-| [1]( ) | Basic Python | To be updated | To be updated
+| [1](https://github.com/mattamx/TripleTen_projects/blob/1c96d8dadf95d3ba8af3c2bf9188f2b8cda318f7/Sprint%201%20-%20Working%20with%20Data%20in%20Python/README.md) | Basic Python | To be updated | To be updated
 
 # Chart Samples
