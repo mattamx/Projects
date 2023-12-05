@@ -9,7 +9,7 @@ All the cool projects I worked on during the TripleTen Data Science bootcamp. Yo
 | [13](https://github.com/mattamx/TripleTen_projects/blob/6224172c9323c4680395174404186493a215dd8d/Sprint%2013%20-%20Time%20Series/README.md) | Time Series | Taxi Service Forecasting | To be updated
 | [12](https://github.com/mattamx/TripleTen_projects/blob/9277025ee9b3a7d011c151704a8823f6c75bd635/Sprint%2012%20-%20Numerical%20Methods/README.md) | Numerical Methods | Car Market Valude Determination | To be updated
 | [11](https://github.com/mattamx/TripleTen_projects/blob/1c96d8dadf95d3ba8af3c2bf9188f2b8cda318f7/Sprint%2011%20-%20Linear%20Algebra/README.md) | Linear Algebra | To be updated | To be updated
-| [10]( ) | Integrated Project 2 | To be updated | To be updated
+| [10](https://github.com/mattamx/TripleTen_projects/blob/0009086dc8362dc46b15ac6014519c40b74122c0/Sprint%2010%20-%20Integrated%20Project%202/README.md) | Integrated Project 2 | To be updated | To be updated
 | [9]( ) | Machine Learning in Business | To be updated | To be updated
 | [8]( ) | Supervised Learning | To be updated | To be updated
 | [7]( ) | Introduction to Machine Learning | To be updated | To be updated
