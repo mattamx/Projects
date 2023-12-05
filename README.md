@@ -3,7 +3,7 @@ All the cool projects I worked on during the TripleTen Data Science bootcamp. Yo
 
 | Sprint | Topic | Project Title | Status
 | :---------------: | --------------- |--------------- |---------------
-| 17 | Final Project | Churn Rate Forecasting | To be updated
+| [17](https://github.com/mattamx/TripleTen_projects/blob/cbb86f189e1946c022ed45feb1c0c53c37c6b6a3/Sprint%2017%20-%20Final%20Project/README.md) | Final Project | Churn Rate Forecasting | To be updated
 | 15 | Computer Vision | Neural Network Activation | To be updated
 | 14 | Machine Learning for Texts | Movie Review Sentiment Detection | To be updated
 | 13 | Time Series | Taxi Service Forecasting | To be updated
@@ -20,4 +20,4 @@ All the cool projects I worked on during the TripleTen Data Science bootcamp. Yo
 | 2 | Exploratory Data Analysis | To be updated | To be updated
 | 1 | Basic Python | To be updated | To be updated
 
-[17]( )
+
