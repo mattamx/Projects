@@ -10,7 +10,7 @@ All the cool projects I worked on during the TripleTen Data Science bootcamp. Yo
 | [12](https://github.com/mattamx/TripleTen_projects/blob/9277025ee9b3a7d011c151704a8823f6c75bd635/Sprint%2012%20-%20Numerical%20Methods/README.md) | Numerical Methods | Car Market Valude Determination | To be updated
 | [11](https://github.com/mattamx/TripleTen_projects/blob/1c96d8dadf95d3ba8af3c2bf9188f2b8cda318f7/Sprint%2011%20-%20Linear%20Algebra/README.md) | Linear Algebra | To be updated | To be updated
 | [10](https://github.com/mattamx/TripleTen_projects/blob/0009086dc8362dc46b15ac6014519c40b74122c0/Sprint%2010%20-%20Integrated%20Project%202/README.md) | Integrated Project 2 | To be updated | To be updated
-| [9]( ) | Machine Learning in Business | To be updated | To be updated
+| [9](https://github.com/mattamx/TripleTen_projects/blob/5c5a45ae2f086ae26a43e0e01bef68404fc533a5/Sprint%209%20-%20Machine%20Learning%20in%20Business/README.md) | Machine Learning in Business | To be updated | To be updated
 | [8](https://github.com/mattamx/TripleTen_projects/blob/8026f481d4b98aae0ce9f08473c5a247c6ca2caa/Sprint%208%20-%20Supervised%20Learning/README.md) | Supervised Learning | To be updated | To be updated
 | [7](https://github.com/mattamx/TripleTen_projects/blob/b184996f091bbcc5cdd4991e4a86e059dbdfd62a/Sprint%207%20-%20Introduction%20to%20ML/README.md) | Introduction to Machine Learning | To be updated | To be updated
 | [6](https://github.com/mattamx/TripleTen_projects/blob/01eb961f950bc99b5ff2ee5a65c311719e8c2f1f/Sprint%206%20-%20Data%20Collection%20and%20Storage%20(SQL)/README.md) | Data Colleciton and Storage (SQL) | To be updated | To be updated
