@@ -19,3 +19,5 @@ All the cool projects I worked on during the TripleTen Data Science bootcamp. Yo
 | 3 | Statistical Data Analysis | To be updated | To be updated
 | 2 | Exploratory Data Analysis | To be updated | To be updated
 | 1 | Basic Python | To be updated | To be updated
+
+Sprint 17 - Final Project/README.md
