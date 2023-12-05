@@ -22,5 +22,5 @@ All the cool projects I worked on during the TripleTen Data Science bootcamp. Yo
 
 # Chart Samples
 ![image](https://github.com/mattamx/TripleTen_projects/assets/107958646/e3e96d3a-db1d-4cd8-b6fb-173872c47a46)
-
+![image](https://github.com/mattamx/TripleTen_projects/assets/107958646/a959cf5c-6000-448d-9d26-ef5d97a29aec)
 
