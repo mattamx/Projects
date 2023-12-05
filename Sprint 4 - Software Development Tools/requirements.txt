@@ -1,0 +1,7 @@
+pandas==1.4.4
+scipy==1.10.1
+streamlit==1.23.1
+streamlit-extras==0.2.7
+plotly==5.14.1
+plotly_express==0.4.1
+altair<5
