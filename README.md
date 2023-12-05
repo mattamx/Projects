@@ -25,3 +25,4 @@ All the cool projects I worked on during the TripleTen Data Science bootcamp. Yo
 ![image](https://github.com/mattamx/TripleTen_projects/assets/107958646/a959cf5c-6000-448d-9d26-ef5d97a29aec)
 ![image](https://github.com/mattamx/TripleTen_projects/assets/107958646/26e4c666-ca8e-4bd3-9df3-f1a807e6cce2)
 ![image](https://github.com/mattamx/TripleTen_projects/assets/107958646/bebb08cd-f087-4899-9db3-3bd799673bb8)
+![image](https://github.com/mattamx/TripleTen_projects/assets/107958646/33849a04-23a2-4fff-bf23-0b796266f235)
