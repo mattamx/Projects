@@ -21,5 +21,6 @@ All the cool projects I worked on during the TripleTen Data Science bootcamp. Yo
 | [1](https://github.com/mattamx/TripleTen_projects/blob/1c96d8dadf95d3ba8af3c2bf9188f2b8cda318f7/Sprint%201%20-%20Working%20with%20Data%20in%20Python/README.md) | Basic Python | To be updated | To be updated
 
 # Chart Samples
-![alt text]([http://url/to/img.png](https://github.com/mattamx/TripleTen_projects/blob/6958e4e43dba1530ff4e02714809fbc38c722682/Sprint%206%20-%20Data%20Collection%20and%20Storage%20(SQL)/newplot.png))
+![image](https://github.com/mattamx/TripleTen_projects/assets/107958646/e3e96d3a-db1d-4cd8-b6fb-173872c47a46)
+
 
