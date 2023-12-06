@@ -13,9 +13,11 @@ As an employee of a video game store you need to indentify patters that determin
 
 #### Task
 
-Find patterns in the open source data (*includes user/expert reviews, genres, platforms and historical game sales data*) in order to hone in on the optimal data horizon, the most profitable genres and regions as well as platforms. 
+Find patterns in the open source data (*includes user/expert reviews, genres, platforms and historical game sales data*) in order to hone in on the optimal data horizon, the most profitable genres, regions and platforms. 
 
-Test two hypotheses: 1) Average user ratings of the Xbox One and PC platforms are the same, 2) Average user ratings for the Action and Sports genres are different.
+    - Test two hypotheses: 
+    1) Average user ratings of the Xbox One and PC platforms are the same
+    2) Average user ratings for the Action and Sports genres are different.
 
 #### The Data
 
@@ -74,5 +76,5 @@ Included is the full Notebook which breaks out the description of our results.
 
 # Plans for updates
 
-1) Deploy functions to remove repetitive tasks, 2) Discover newer visualization patterns to tell the story and 3) explore more ways of leveraging `.query()` while removing lines of code that can be one in one single thread
+1) Deploy functions to remove repetitive tasks, 2) Discover newer visualization patterns to tell the story and 3) Explore more ways of leveraging `.query()` while removing lines of code that can be one in one single thread.
     
