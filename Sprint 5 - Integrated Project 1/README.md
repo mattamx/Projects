@@ -16,7 +16,7 @@ As an employee of a video game store you need to indentify patters that determin
 Find patterns in the open source data (*includes user/expert reviews, genres, platforms and historical game sales data*) in order to hone in on the optimal data horizon, the most profitable genres, regions and platforms. 
 
 - Test two hypotheses:
-  1) Average user ratings of the Xbox One and PC platforms are the same
+  1) Average user ratings of the Xbox One and PC platforms are the same.
   2) Average user ratings for the Action and Sports genres are different.
 
 #### The Data
