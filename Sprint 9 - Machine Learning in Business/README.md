@@ -2,8 +2,8 @@
 
 ### What we learned throughout the sprint:
 
-- Distinguish between offline metrics and online metrics;
-- Use bootstrap to calculate confidence intervals and business metrics;
+- Distinguish between offline metrics and online metrics.
+- Use bootstrap to calculate confidence intervals and business metrics.
 - Perform cross-validation so that conclusions about the model evaluation are more reliable.
 
 ### Project - Optimal Mining Well Search
@@ -18,7 +18,7 @@ Steps to choose the location:
 
 #### Task
 
-Build a model that will help to pick the region with the highest profit margin. Analyze potential profit and risks using Bootstrapping technique.
+Build a model that will help to pick the region with the highest profit margin. Analyze potential profit and risks using Bootstrapping techniques.
 
 #### The Data
 
