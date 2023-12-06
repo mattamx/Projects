@@ -2,9 +2,9 @@
 
 ### What we learned throughout the sprint:
 
-- Use the Keras tools to train neural networks
-- Build fully connected and convolutional networks
-- Work with ResNet
+- Use the Keras tools to train neural networks.
+- Build fully connected and convolutional networks.
+- Work with ResNet.
 
 ### Project - Neural Network Activation
 
@@ -32,7 +32,7 @@ We then head over to model training and evaluation, building a convolutional neu
 #### Results
 
 After leveraging the ResNet50 architecture to analyze customer images and choosing optimal parameters, we are able to get to the target MAE of less than 8. 
-    - With that said, given the heightened risk and sensitivity of selling alcohol to people under the legal age along with the significant fines and problems that come with that, it would be **highly advisable** to incorporate another layer of verification at the very least if this is to be deployed (along with more in-depth tuning/optimization). There is a reason afterall that we don't see this at Whole Foods or other, much larger 'supermarkets'.
+    - With that said, given the heightened risk and sensitivity of selling alcohol to people under the legal age along with the significant fines and problems that come with that, it would be **highly advisable** to incorporate another layer of verification at the very least if this is to be deployed (along with more in-depth tuning/optimization). There is a reason afterall that we don't see this type of system reliance at Whole Foods or other, much larger 'supermarkets'.
 
 The supermarket chain should be able to leverage our computer vision model to also:
 
