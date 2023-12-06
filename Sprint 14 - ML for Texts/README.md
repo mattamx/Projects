@@ -2,10 +2,10 @@
 
 ### What we learned throughout the sprint:
 
-- Preprocess textual data;
-- Create a bag-of-words for a corpus;
-- Calculate TF-IDF;
-- Use BERT to convert textual data into embeddings;
+- Preprocess textual data.
+- Create a bag-of-words for a corpus.
+- Calculate TF-IDF.
+- Use BERT to convert textual data into embeddings.
 - Use texts to train ML models.
 
 ### Project - Movie Review Sentiment Detection
@@ -18,7 +18,7 @@ Build a machine learning model to automatically detect positive/negative sentime
 
 #### The Data
 
-The data is spread across one file with three main selected features:
+The data is contained in one file with three main selected features:
 
 - `review`: the review text
 - `pos`: the target, '0' for negative and '1' for positive
@@ -30,9 +30,9 @@ The data is spread across one file with three main selected features:
 
 We first performed exploratory data analysis to make conclusions on class imbalance and preprocess the data for modeling.
 
-As we headed into the modeling portion, we trained at least three different models with the given train dataset. Testing the model for the given test dataset. 
+As we headed into the modeling portion, we trained at least three different models with the given train dataset. Performing model evaluations with the given test dataset. 
 
-To better understand some of our models, we introduce a new set of reviews, classify them and evaluate the probabilities while comparing to the previous modeling results.
+To better understand some of our models, we introduce a new set of reviews, classify them and evaluate the probabilities while comparing to the previous model results.
 
 #### Results
 
