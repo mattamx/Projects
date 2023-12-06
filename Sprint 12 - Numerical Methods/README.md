@@ -52,7 +52,7 @@ We then train 3 regressor models with different hyperparameters to attain our be
 
 From our base regressor models, we find that the RandomForestRegressor attains the best quality for our RMSE metric but performs the worst when it comes to speed. Taking into account some of the needs of the used car sales service, we take a closer look at the boosting methods and come to the conclusion that these models yield the best results with much better speed numbers. 
 
-Our RMSE metrics from utilizing boosting techniques were from a range of ~1700-1800. At the end of the day, the car sales service will have to come to a compromise between their 3 wants (speed, quality and time).
+Our RMSE metrics from utilizing boosting techniques were from a range of ~1700-1800. The suggestion is to use LightGBM as the base model given its speed and quality results but at the end of the day, the car sales service will have to come to a compromise between their 3 wants (speed, quality and time).
 
 # Chart Examples
 
