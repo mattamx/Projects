@@ -19,6 +19,7 @@ Develop and train a convolutional neural network model on a GPU platform, using 
 The data is spread across two files:
 
 The `final_files` folder with 7.6k photos
+
 The `labels.csv` file with labels, with two columns: `file_name` and `real_age`
 
 *Given the fact that the number of image files is rather high, it is advisable to avoid reading them all at once, which would greatly consume computational resources.*
