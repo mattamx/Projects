@@ -7,11 +7,11 @@
 
 ### Project - Gold Extraction Evaluation
 
-A company who develops efficiency solutions for the mining industry would like to predict the amount of gold recovered from gold ore while eliminating unprofitable parameters.
+A company who develops efficiency solutions for the mining industry would like to predict the amount of gold recovered from ore while eliminating unprofitable parameters.
 
 #### Task
 
-Prepare a machine learning model for the company wwhich predicts the amount of gold recovered from gold ore. Leveraging data on extraction and purification.
+Prepare a machine learning model for the company wwhich predicts the amount of gold recovered from ore. Leveraging data on extraction and purification.
 
 #### The Data
 
@@ -23,9 +23,9 @@ The data is spread across three files:
 **Technological process data**
 - `Rougher feed`: raw material
 - `Rougher additions (or reagent additions)`: flotation reagents: *Xanthate*, *Sulphate*, *Depressant*
-    `Xanthate`: promoter or flotation activator;
-    `Sulphate`: sodium sulphide for this particular process;
-    `Depressant`: sodium silicate.
+    `Xanthate`: promoter or flotation activator
+    `Sulphate`: sodium sulphide for this particular process
+    `Depressant`: sodium silicate
 - `Rougher process`: flotation
 - `Rougher tails`: product residues
 - `Float banks`: flotation unit
@@ -45,7 +45,7 @@ The data is spread across three files:
 We study the technological process of gold extration from ore and its various stages and leverage a formula to simulate the gold recovery process. 
 ![Alt text](image.png)
 
-Our data is examined for any possible quality issues and take into the differences in the number of features across the *Train*, *Test* and *Full* data and a missing target feature from our *Test* dataset. Concentration of metals is cross-compared at different stages.
+Our data is examined for any possible quality issues and we take into the differences in the number of features across the *Train*, *Test* and *Full* data and a missing target feature from our *Test* dataset. Concentration of metals is cross-compared at different stages.
 
 We then calculate the symmetric Mean Absolute Percentage Error (sMAPE) as our evaluation metric in order to predict two values:
     1. rougher concentrate recovery `rougher.output.recovery`
@@ -53,7 +53,7 @@ We then calculate the symmetric Mean Absolute Percentage Error (sMAPE) as our ev
 
 ![Alt text](image-1.png)
 
-Multiple models are built and evaluated using cross-validation, picking the best model and testing it using the *Test* sample. 
+Multiple models are built and evaluated using cross-validation, picking the best model and evaluating it using the *Test* sample. 
 
 #### Results
 
