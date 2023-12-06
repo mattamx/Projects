@@ -1,0 +1,19 @@
+Clarifying questions from Part 1, which are meant to be sent to our team leader for review and eventually the company.
+
+1. Does the company prioritize speed or accuracy for our model results?
+
+
+2. Is this the first time integrating Data Science/ML models to forecast churn rates?
+ - If not, what were the previous results? is the data accessible? What was the outcome?
+    
+
+3. Is there infrastructure in place to continously monitor, manage and enhance the model?
+
+
+4. Who will be receiving the final report?
+ - Do they undertand model technicalities/fundamentals?
+ 
+ 
+5. Any additional data points the company can share and/or are easily accessible? 
+ - Phone types, prices? Competitors that clients have 'jumped ship' to?
+ - More information on clients? (state, city, zip code, region, income or credit scores)
