@@ -32,8 +32,8 @@ The tasks are broken out into four parts:
 
 The data is housed in one file:
 
-`Features`: insured person's gender, age, salary, and number of family members.
-`Target`: number of insurance benefits received by an insured person over the last five years.
+`Features`: insured person's gender, age, salary, and number of family members
+`Target`: number of insurance benefits received by an insured person over the last five years
 
 *Necessary to develop a data transformation algorithm that would make it hard to recover personal information if the data fell into the wrong hands through data masking, or data obfuscation. The data should be protected in such a way that the quality of machine learning models doesn't suffer.*
 
