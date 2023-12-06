@@ -2,10 +2,10 @@
 
 ### What we learned throughout the sprint:
 
-- How to read data from different sources and formats and how to address missing or duplicate values
-- Making clear and effective figures from your data and analytical results
-- Filtering and grouping data for more advanced aggregate analysis and engineering new columns by processing existing columns
-- Combining data via merging and concatenation
+- How to read data from different sources and formats and how to address missing or duplicate values.
+- Making clear and effective figures from your data and analytical results.
+- Filtering and grouping data for more advanced aggregate analysis and engineering new columns by processing existing columns.
+- Combining data via merging and concatenation.
 
 ### Project - Instacart Insights
 
