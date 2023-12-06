@@ -51,16 +51,16 @@ Schema
 
 Additional features:
 - `company_name`: taxi company name
-- `trips_amount`: the number of rides for each taxi company on November 15-16, 2017.
+- `trips_amount`: the number of rides for each taxi company on November 15-16, 2017
 - `dropoff_location_name`: Chicago neighborhoods where rides ended
-- `average_trips`: the average number of rides that ended in each neighborhood in November 2017.
+- `average_trips`: the average number of rides that ended in each neighborhood in November 2017
 
 #### The Process
 
 This project was broken out into three parts: 
 
 1) Parsing Data
-    - Writting code to parse through data on weather conditions from a website
+    - Developing code to parse through data on weather conditions from a website
     - Leveraging libraries for sending request to a server and for webpage parsing (`requests` and `bs4 - BeautifulSoup`)
 2) Working with Databases
     - Retrieving data using SQL (leveraging operators like `Case`, `Inner Join`, `Extract`) to later perform exploratory data analysis and test the hypothesis
