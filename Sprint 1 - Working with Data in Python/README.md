@@ -13,7 +13,10 @@ Using real Yandex.Music data, analyzing the music preferences of the cities of S
 
 #### Task
 
-Test the three following hypotheses: 1) User activity differs depending on the day of the week and from city to city, 2) On Monday mornings, Springfield and Shelbyville residents listen to different genres. This is also true for Friday evenings and, 3) Springfield and Shelbyville listeners have different preferences. In both Springfield and Shelbyville, they prefer pop.
+Test the three following hypotheses: 
+1) User activity differs depending on the day of the week and from city to city.
+2) On Monday mornings, Springfield and Shelbyville residents listen to different genres. This is also true for Friday evenings.
+3) Springfield and Shelbyville listeners have different preferences. In both Springfield and Shelbyville, they prefer pop.
 
 #### The Data
 
@@ -36,7 +39,7 @@ The quality of the data is evaluated on whether its issues (if any) are signific
 
 #### Results
 
-Through data analysis we tested three hypotheses, accepting our first hypothesis while rejecting the two remaining. 
+Through data analysis (leveraging pre-coded cells) we tested three hypotheses, accepting our first hypothesis while rejecting the two remaining. 
 
 # Chart Examples
 
