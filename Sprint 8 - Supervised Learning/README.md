@@ -12,7 +12,7 @@ A bank's customers are leaving little by little, chipping away every month. The 
 
 #### Task
 
-Utilize data on clients' past behavior and temrination of contracts with the bank to build a model with the maximum possible *F1* score. Achieve a score of at least 0.59 and measure the *AUC-ROC* metric and compare it with the *F1*.
+Utilize data on clients' past behavior and termination of contracts with the bank to build a model with the maximum possible *F1* score. Achieve a score of at least 0.59 and measure the *AUC-ROC* metric and compare it with the *F1*.
 
 #### The Data
 
@@ -37,7 +37,7 @@ The data is housed in one file:
 
 Our first step is to prepare our data for training with the preprocessing of all feature types, investigating the balance of classes and taking into account any missing values.
 
-We then plot AUC-ROC graphs, create confusion matrices and compute F1 metrics for various models. From these insights, we select our optimal model being the RandomForest Classifier diving further into class weight adjustments (via upsampling and downsampling techniques) and classification threshold comparisons that may help us achive the desired score.
+We then plot AUC-ROC graphs, create confusion matrices and compute F1 metrics for various models. From these insights, we select the most optimal model (RandomForest Classifier) while diving further into class weight adjustments (via upsampling and downsampling techniques) and classification threshold comparisons that may help us achive the desired score.
 
 #### Results
 
