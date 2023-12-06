@@ -2,9 +2,9 @@
 
 ### What we learned throughout the sprint:
 
-- Perform operations with matrices and vectors
-- Create machine learning classes
-- Explain how linear regression works
+- Perform operations with matrices and vectors.
+- Create machine learning classes.
+- Explain how linear regression works.
 
 ### Project - Insurance Benefits Predictability
 
@@ -59,4 +59,4 @@ Included is the full Notebook which breaks out the description of our results.
 
 # Plans for updates
 
-Create a few visualizations from our DataFrame.
+Create a few visualizations from our dataframe.
