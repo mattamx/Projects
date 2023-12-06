@@ -3,7 +3,7 @@
 ### What we learned throughout the sprint:
 
 - Learned to choose the optimal metrics for data description and how to define the necessary histogram type to assess continuous and discrete variables.
-- Now undersstand how to draw conclusions on the data from statistical metrics and the basic notions of probability theory.
+- Now understand how to draw conclusions on the data from statistical metrics and the basic notions of probability theory.
 - Know how to define and calculate both normal and binomial distributions.
 - Gained basic understanding of probability theory and know how to formulate and test hypotheses.
 
@@ -15,7 +15,9 @@ The commercial department of a telecom operator wants to know which of their cur
 
 Carry out a preliminary review of the plans based on a relatively small client selection, analyze clients' behavior and determine which prepaid plan brings in more revenue.  
 
-Test the following hypotheses: 1) The average revenue from users of Ultimate and Surf calling plans differs and 2) The average revenue from users in NY-NJ area is different from that of the users from other regions.
+- Test the following hypotheses:
+  1) The average revenue from users of Ultimate and Surf calling plans differs.
+  2) The average revenue from users in NY-NJ area is different from that of the users from other regions.
 
 #### The Data
 
@@ -63,7 +65,7 @@ This project was broken out a few steps:
 1) Data preparation
     - data type conversion, finding and eliminating errors in the data
 2) Data analysis
-    - customer behavior review from monthly requirements of minutes, texts and data volumes
+    - customer behavior review from the monthly requirements of minutes, texts and data volumes
     - mean, variance and standard deviation formulation
     - distribution examination 
 3) Hypotheses testing
@@ -90,5 +92,5 @@ Included is the full Notebook which breaks out the description of our results.
 
 # Plans for updates
 
-1) Deploy functions to remove repetitive tasks, 2) Discover newer visualization patterns to tell the story and 3) explore more ways of leveraging `.query()` while removing lines of code that can be one in one single thread
+1) Deploy functions to remove repetitive tasks, 2) Discover newer visualization patterns to tell the story and 3) Explore more ways of leveraging various methods to condense code that can be one in one single thread.
     
