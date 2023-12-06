@@ -18,11 +18,11 @@ Leverage subscriber behavior data to develop a model with the highest possible a
 
 The data is housed in one file:
 
-- `сalls`: number of calls,
-- `minutes`: total call duration in minutes,
-- `messages`: number of text messages,
-- `mb_used`: Internet traffic used in MB,
-- `is_ultra`: plan for the current month (Ultra - 1, Smart - 0), our target.
+- `сalls`: number of calls
+- `minutes`: total call duration in minutes
+- `messages`: number of text messages
+- `mb_used`: Internet traffic used in MB
+- `is_ultra`: plan for the current month (Ultra - 1, Smart - 0), our target
 
 #### The Process
 
@@ -32,7 +32,7 @@ Models are trained and examined for overall quality followed by the further togg
 
 #### Results
 
-Through model hyperparameter tuning, iteratively searching for the best score/estimators in this instance, we achieve a final accuracy score of 79% leveraging the test dataset.
+Through model hyperparameter tuning, iteratively searching for the best score/estimators in this instance, we achieve a final accuracy score of 79% when performing model evaluation using the test dataset.
 
 # Chart Examples
 
@@ -42,4 +42,4 @@ Included is the full Notebook which breaks out the description of our results.
 
 # Plans for updates
 
-Create a few visualization for our DF or the model outputs.
+Create a few visualization for our dataframe or the model outputs.
