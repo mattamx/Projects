@@ -2,9 +2,9 @@
 
 ### What we learned throughout the sprint:
 
-- Calculate an algorithm's computational complexity
-- Train models using the gradient descent algorithm
-- Use the gradient boosting technique
+- Calculate an algorithm's computational complexity.
+- Train models using the gradient descent algorithm.
+- Use the gradient boosting technique.
 
 ### Project - Car Market Valude Determination
 
@@ -17,11 +17,11 @@ The sales service is interested in:
 
 #### Task
 
-Build a model to determine the market value of used cars, leveraging the RMSE metric to evaluated the models and analyzing the speed, and quality.
+Build a model to determine the market value of used cars, leveraging the RMSE metric to evaluate the models and analyzing the speed, and quality.
 
 #### The Data
 
-The data is spread across one file:
+The data is contained in one file:
 
 - `DateCrawled`: date profile was downloaded from the database
 - `VehicleType`: vehicle body type
@@ -44,13 +44,15 @@ The data is spread across one file:
 
 We first performed exploratory data analysis to create notes on any perceived issues and how we will tackle them to get all the data clean/ready as proper model inputs.
 
-Following our data clean-up, we leverage a function to encode our dataframe and its multiple feature columns. This allows the data to be properly dissemniated by the boosting methods we incorporated after benchmark regressor models.
+Following our data clean-up, we leverage a function to encode our dataframe and its multiple feature columns. This allows the data to be properly dissemniated by the boosting methods we incorporated after initializing the benchmark regressor models.
 
 We then train 3 regressor models with different hyperparameters to attain our best RMSE possible. Once this is performed, we then move to boosting methods/techniques which included LightGBM, CatBoost and XGBoost. 
 
 #### Results
 
-From our base regressor models, we find that the RandomForestRegressor attains the best quality for our RMSE metric but performs the worst when it comes to speed. Taking into account some of the needs of the used car sales service, we take a closer look at the boosting methods and come to the conclusion that these models yield the best results with much better speed numbers. Our RMSE metrics from utilizing boosting techniques were from a range of ~1700-1800. At the end of the day, the car sales service will have to come to a compromise between their 3 wants (speed, quality and time).
+From our base regressor models, we find that the RandomForestRegressor attains the best quality for our RMSE metric but performs the worst when it comes to speed. Taking into account some of the needs of the used car sales service, we take a closer look at the boosting methods and come to the conclusion that these models yield the best results with much better speed numbers. 
+
+Our RMSE metrics from utilizing boosting techniques were from a range of ~1700-1800. At the end of the day, the car sales service will have to come to a compromise between their 3 wants (speed, quality and time).
 
 # Chart Examples
 
@@ -60,4 +62,4 @@ Included is the full Notebook which breaks out the description of our results.
 
 # Plans for updates
 
-Create a few visualizations from our DataFrame.
+Create a few visualizations from our dataframe.
