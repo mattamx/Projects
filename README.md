@@ -28,6 +28,6 @@ All the cool projects I worked on during the TripleTen Data Science bootcamp. Yo
 ![image](https://github.com/mattamx/TripleTen_projects/assets/107958646/33849a04-23a2-4fff-bf23-0b796266f235)
 
 # Summary of planned updates
-- Data clean-up and code condensation through the use various functions and methods.
-- Visualization aligment to Plotly and deployment of further enhancements in order to catch up with current skills in PowerPoint and Tableau.
-- Notebook structure re-organization, creating one template for all.
+- [ ] Data clean-up and code condensation through the use various functions and methods.
+- [ ] Visualization aligment to Plotly and deployment of further enhancements in order to catch up with current skills in PowerPoint and Tableau.
+- [ ] Notebook structure re-organization, creating one template for all.
