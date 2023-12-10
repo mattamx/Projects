@@ -5,7 +5,7 @@ All the cool projects I worked on during the TripleTen Data Science bootcamp. Yo
 | :---------------: | --------------- |--------------- |---------------
 | [17](https://github.com/mattamx/TripleTen_projects/blob/cbb86f189e1946c022ed45feb1c0c53c37c6b6a3/Sprint%2017%20-%20Final%20Project/README.md) | Final Project | Churn Rate Forecasting | Scheduled for updates
 | [15](https://github.com/mattamx/TripleTen_projects/blob/444e3781094a75b31025f456b204a23222d18a8a/Sprint%2015%20-%20Computer%20Vision/README.md) | Computer Vision | Neural Network Activation | No scheduled updates
-| [14](https://github.com/mattamx/TripleTen_projects/blob/470813bea6bfe3bc1c7c916811d80ee1cd9221e2/Sprint%2014%20-%20ML%20for%20Texts/README.md) | Machine Learning for Texts | Movie Review Sentiment Detection | Chart updates in progress 🚧
+| [14](https://github.com/mattamx/TripleTen_projects/blob/470813bea6bfe3bc1c7c916811d80ee1cd9221e2/Sprint%2014%20-%20ML%20for%20Texts/README.md) | Machine Learning for Texts | Movie Review Sentiment Detection | Graph conversion to Plotly completed
 | [13](https://github.com/mattamx/TripleTen_projects/blob/6224172c9323c4680395174404186493a215dd8d/Sprint%2013%20-%20Time%20Series/README.md) | Time Series | Taxi Service Forecasting | No scheduled updates
 | [12](https://github.com/mattamx/TripleTen_projects/blob/9277025ee9b3a7d011c151704a8823f6c75bd635/Sprint%2012%20-%20Numerical%20Methods/README.md) | Numerical Methods | Car Market Valude Determination | Scheduled for updates
 | [11](https://github.com/mattamx/TripleTen_projects/blob/1c96d8dadf95d3ba8af3c2bf9188f2b8cda318f7/Sprint%2011%20-%20Linear%20Algebra/README.md) | Linear Algebra | Insurance Benefits Predictability | Scheduled for updates
@@ -21,8 +21,9 @@ All the cool projects I worked on during the TripleTen Data Science bootcamp. Yo
 | [1](https://github.com/mattamx/TripleTen_projects/blob/1c96d8dadf95d3ba8af3c2bf9188f2b8cda318f7/Sprint%201%20-%20Working%20with%20Data%20in%20Python/README.md) | Basic Python | Music Preferences Across Cities | Scheduled for updates
 
 # Chart Samples
-![image](https://github.com/mattamx/TripleTen_projects/assets/107958646/e3e96d3a-db1d-4cd8-b6fb-173872c47a46)
+![Alt text](<Sprint 14 - ML for Texts/newplot1.png>)
 ![image](https://github.com/mattamx/TripleTen_projects/assets/107958646/a959cf5c-6000-448d-9d26-ef5d97a29aec)
+![image](https://github.com/mattamx/TripleTen_projects/assets/107958646/e3e96d3a-db1d-4cd8-b6fb-173872c47a46)
 ![image](https://github.com/mattamx/TripleTen_projects/assets/107958646/26e4c666-ca8e-4bd3-9df3-f1a807e6cce2)
 ![image](https://github.com/mattamx/TripleTen_projects/assets/107958646/bebb08cd-f087-4899-9db3-3bd799673bb8)
 ![image](https://github.com/mattamx/TripleTen_projects/assets/107958646/33849a04-23a2-4fff-bf23-0b796266f235)
@@ -30,4 +31,5 @@ All the cool projects I worked on during the TripleTen Data Science bootcamp. Yo
 # Summary of planned updates
 - [ ] Data clean-up and code condensation through the use various functions and methods.
 - [ ] Visualization aligment to Plotly and deployment of further enhancements in order to catch up with current skills in PowerPoint and Tableau.
+    - [ ] Figure out a way to have Plotly illustration show up on GitHub.
 - [ ] Notebook structure re-organization, creating one template for all.
