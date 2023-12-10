@@ -49,18 +49,16 @@ Through the use of tokenization and lemmatization via NLTK and spaCy, our achiev
 
 # Chart Examples
 
-![Alt text](output0.png)
+![Alt text](newplot.png)
 
-![Alt text](output.png)
+![Alt text](newplot1.png)
 
-![Alt text](output2.png)
+![Alt text](newplot2.png)
 
-![Alt text](output3.png)
-
-![Alt text](output4.png)
+![Alt text](newplot3.png)
 
 Included is the full Notebook which breaks out the description of our results.
 
 # Plans for updates
 
-Update graphs and compute results via the BERT model which was skipped over due to computational requirements.
+Graph aligned to Plotly was completed (from matplotlib) up next: compute results via the BERT model which was skipped over due to computational requirements.
