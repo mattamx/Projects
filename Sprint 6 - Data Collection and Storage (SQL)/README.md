@@ -62,7 +62,7 @@ This project was broken out into three parts:
 1) [Parsing Data](https://github.com/mattamx/TripleTen_projects/blob/7189fe6b04a31b5ffd0aaf27e420c1bd802820c5/Sprint%206%20-%20Data%20Collection%20and%20Storage%20(SQL)/Parsing%20Data.md)
     - Developing code to parse through data on weather conditions from a website
     - Leveraging libraries for sending request to a server and for webpage parsing (`requests` and `bs4 - BeautifulSoup`)
-2) Working with Databases
+2) [Working with Databases](https://github.com/mattamx/TripleTen_projects/blob/53ca403f2e8244b8ba72f6dcdabbdbe546d159f8/Sprint%206%20-%20Data%20Collection%20and%20Storage%20(SQL)/Working%20with%20Databases.md)
     - Retrieving data using SQL (leveraging operators like `Case`, `Inner Join`, `Extract`) to later perform exploratory data analysis and test the hypothesis
 3) Exploratory data analysis and hypothesis testing using Python drawing conclusions from our analysis and explaining the results
 
