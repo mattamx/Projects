@@ -21,7 +21,7 @@ All the cool projects I worked on during the TripleTen Data Science bootcamp. Yo
 | [1](https://github.com/mattamx/TripleTen_projects/blob/1c96d8dadf95d3ba8af3c2bf9188f2b8cda318f7/Sprint%201%20-%20Working%20with%20Data%20in%20Python/README.md) | Basic Python | Music Preferences Across Cities | Scheduled for updates
 
 # Chart Samples
-![Alt text](<Sprint 14 - ML for Texts/newplot1.png>)
+![Alt text](<Sprint 14 - ML for Texts/images/newplot1.png>)
 ![image](https://github.com/mattamx/TripleTen_projects/blob/d5c9d5580743b32e3f0432b3d9916680bdd90473/Sprint%2014%20-%20ML%20for%20Texts/newplot.png)
 ![image](https://github.com/mattamx/TripleTen_projects/assets/107958646/a959cf5c-6000-448d-9d26-ef5d97a29aec)
 ![image](https://github.com/mattamx/TripleTen_projects/assets/107958646/e3e96d3a-db1d-4cd8-b6fb-173872c47a46)
