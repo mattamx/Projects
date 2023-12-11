@@ -74,11 +74,11 @@ There was significant evidence to reject the null hypothesis stating that there 
 
 # Chart Examples
 
-![Alt text](newplot.png)
+![](https://github.com/mattamx/TripleTen_projects/blob/9fb19f3da3e8c499b72d65f0fbba6efd833bc764/Sprint%206%20-%20Data%20Collection%20and%20Storage%20(SQL)/images/newplot.png)
 
-![Alt text](newplot1.png)
+![](https://github.com/mattamx/TripleTen_projects/blob/9fb19f3da3e8c499b72d65f0fbba6efd833bc764/Sprint%206%20-%20Data%20Collection%20and%20Storage%20(SQL)/images/newplot1.png)
 
-![Alt text](newplot2.png)
+![](https://github.com/mattamx/TripleTen_projects/blob/9fb19f3da3e8c499b72d65f0fbba6efd833bc764/Sprint%206%20-%20Data%20Collection%20and%20Storage%20(SQL)/images/newplot2.png)
 
 Included is the full Notebook which breaks out the description of our results.
 
