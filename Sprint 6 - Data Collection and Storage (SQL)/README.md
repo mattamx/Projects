@@ -59,7 +59,7 @@ Additional features:
 
 This project was broken out into three parts: 
 
-1) Parsing Data
+1) [Parsing Data](https://github.com/mattamx/TripleTen_projects/blob/7189fe6b04a31b5ffd0aaf27e420c1bd802820c5/Sprint%206%20-%20Data%20Collection%20and%20Storage%20(SQL)/Parsing%20Data.md)
     - Developing code to parse through data on weather conditions from a website
     - Leveraging libraries for sending request to a server and for webpage parsing (`requests` and `bs4 - BeautifulSoup`)
 2) Working with Databases
