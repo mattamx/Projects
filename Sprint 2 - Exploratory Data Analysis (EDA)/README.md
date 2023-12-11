@@ -62,9 +62,9 @@ All in all, instacart seems to serve as a good introduction to online ordering t
 
 # Chart Examples
 
-![Alt text](output.png)
+![Alt text](images/output.png)
 
-![Alt text](output1.png)
+![Alt text](images/output1.png)
 
 Included is the full Notebook which breaks out the description of our results.
 

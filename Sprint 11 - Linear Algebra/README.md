@@ -51,9 +51,9 @@ Then, we prove that obsfucating our data can work with Linear Regression models 
 
 # Chart Examples
 
-![Alt text](output.png)
+![Alt text](images/output.png)
 
-![Alt text](image.png)
+![Alt text](images/image.png)
 
 Included is the full Notebook which breaks out the description of our results.
 

@@ -43,7 +43,7 @@ The data is spread across three files:
 #### The Process
 
 We study the technological process of gold extration from ore and its various stages and leverage a formula to simulate the gold recovery process. 
-![Alt text](image.png)
+![Alt text](images/image.png)
 
 Our data is examined for any possible quality issues and we take into the differences in the number of features across the *Train*, *Test* and *Full* data and a missing target feature from our *Test* dataset. Concentration of metals is cross-compared at different stages.
 
@@ -51,7 +51,7 @@ We then calculate the symmetric Mean Absolute Percentage Error (sMAPE) as our ev
     1. rougher concentrate recovery `rougher.output.recovery`
     2. final concentrate recovery `final.output.recovery`
 
-![Alt text](image-1.png)
+![Alt text](images/image-1.png)
 
 Multiple models are built and evaluated using cross-validation, picking the best model and evaluating it using the *Test* sample. 
 
@@ -63,15 +63,15 @@ Based on the final sMAPE comparison between the RandomForestRegressor and the Du
 
 # Chart Examples
 
-![Alt text](newplot.png)
+![Alt text](images/newplot.png)
 
-![Alt text](newplot2.png)
+![Alt text](images/newplot2.png)
 
-![Alt text](newplot3.png)
+![Alt text](images/newplot3.png)
 
-![Alt text](newplot4.png)
+![Alt text](images/newplot4.png)
 
-![Alt text](newplot5.png)
+![Alt text](images/newplot5.png)
 
 Included is the full Notebook which breaks out the description of our results.
 

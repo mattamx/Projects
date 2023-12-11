@@ -45,9 +45,9 @@ Through the usage of both class balance/weight adjustments and classification th
 
 # Chart Examples
 
-![Alt text](output.png)
+![Alt text](images/output.png)
 
-![Alt text](output1.png)
+![Alt text](images/output1.png)
 
 Included is the full Notebook which breaks out the description of our results.
 

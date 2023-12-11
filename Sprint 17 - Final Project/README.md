@@ -58,15 +58,15 @@ The solution report tackled 4 important questions related to the plan, difficult
 
 # Chart Examples
 
-![Alt text](newplot.png)
+![Alt text](images/newplot.png)
 
-![Alt text](newplot3.png)
+![Alt text](images/newplot3.png)
 
-![Alt text](newplot4.png)
+![Alt text](images/newplot4.png)
 
-![Alt text](newplot5.png)
+![Alt text](images/newplot5.png)
 
-![Alt text](newplot6.png)
+![Alt text](images/newplot6.png)
 
 Included is the full Notebook which breaks out the description of our results.
 

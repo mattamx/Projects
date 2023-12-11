@@ -50,13 +50,13 @@ Using bootstrapping techniques, we found each region's the distribution of profi
 # Chart Examples
 
 Region 0 Profit Distribution
-![Alt text](output.png)
+![Alt text](images/output.png)
 
 Region 1 Profit Distribution
-![Alt text](output1.png)
+![Alt text](images/output1.png)
 
 Region 2 Profit Distribution
-![Alt text](output2.png)
+![Alt text](images/output2.png)
 
 Included is the full Notebook which breaks out the description of our results.
 

@@ -45,9 +45,9 @@ The supermarket chain should be able to leverage our computer vision model to al
 
 # Chart Examples
 
-![Alt text](newplot.png)
+![Alt text](images/newplot.png)
 
-![Alt text](output.png)
+![Alt text](images/output.png)
 
 Included is the full Notebook which breaks out the description of our results.
 

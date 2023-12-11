@@ -52,11 +52,11 @@ We successfully deployed the application to Render: https://sprint-4-project-bh9
 
 Total Annual Wages by Position (£)
 
-![Alt text](newplot.png)
+![Alt text](images/newplot.png)
 
 Annual Wage Distribution by Nation (£)
 
-![Alt text](newplot-2.png)
+![Alt text](images/newplot-2.png)
 
 Included is the full Notebook which breaks out the description of our results.
 

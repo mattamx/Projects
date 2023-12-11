@@ -80,13 +80,13 @@ The general conclusion from this analysis is that the telecom operator's Surf pl
 
 # Chart Examples
 
-![Alt text](output.png)
+![Alt text](images/output.png)
 
-![Alt text](output1.png)
+![Alt text](images/output1.png)
 
-![Alt text](output2.png)
+![Alt text](images/output2.png)
 
-![Alt text](output3.png)
+![Alt text](images/output3.png)
 
 Included is the full Notebook which breaks out the description of our results.
 

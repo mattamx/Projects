@@ -62,15 +62,15 @@ After navigating through the various steps for this project, our general conclus
 
 # Chart Examples
 
-![Alt text](newplot.png)
+![Alt text](images/newplot.png)
 
-![Alt text](newplot2.png)
+![Alt text](images/newplot2.png)
 
-![Alt text](newplot3.png)
+![Alt text](images/newplot3.png)
 
-![Alt text](newplot4.png)
+![Alt text](images/newplot4.png)
 
-![Alt text](newplot5.png)
+![Alt text](images/newplot5.png)
 
 Included is the full Notebook which breaks out the description of our results.
 
