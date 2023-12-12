@@ -17,7 +17,7 @@ All the cool projects I worked on during the TripleTen Data Science bootcamp. Yo
 | [5](https://github.com/mattamx/TripleTen_projects/blob/cf86c0ae8638a6cf72cc005e20b90f51b1dbd8ed/Sprint%205%20-%20Integrated%20Project%201/README.md) | Integrated Project 1 | Video Game Campaign Analysis | Scheduled for updates
 | [4](https://github.com/mattamx/TripleTen_projects/blob/19b873d92882dabf966086be620250e96363933b/Sprint%204%20-%20Software%20Development%20Tools/README.md) | Software Development Tools | Utilizing Render | No scheduled updates
 | [3](https://github.com/mattamx/TripleTen_projects/blob/ec989cfe1cbfe2d32398463d7fc96f95491f7b69/Sprint%203%20-%20Statistical%20Data%20Analysis/README.md) | Statistical Data Analysis | Telecom Strategic Advertising | Scheduled for updates
-| [2](https://github.com/mattamx/TripleTen_projects/blob/096eca6428af8b57bdf973a172679659b4b1ff90/Sprint%202%20-%20Exploratory%20Data%20Analysis%20(EDA)/README.md) | Exploratory Data Analysis | Instacart Insights | Scheduled for updates
+| [2](https://github.com/mattamx/TripleTen_projects/blob/096eca6428af8b57bdf973a172679659b4b1ff90/Sprint%202%20-%20Exploratory%20Data%20Analysis%20(EDA)/README.md) | Exploratory Data Analysis | Instacart Insights | Graph conversion to Plotly completed
 | [1](https://github.com/mattamx/TripleTen_projects/blob/1c96d8dadf95d3ba8af3c2bf9188f2b8cda318f7/Sprint%201%20-%20Working%20with%20Data%20in%20Python/README.md) | Basic Python | Music Preferences Across Cities | Scheduled for updates
 
 # Chart Samples

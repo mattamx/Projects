@@ -70,5 +70,5 @@ Included is the full Notebook which breaks out the description of our results.
 
 # Plans for updates
 
-Explore more ways of visualizing the data (during EDA) and replace matplotlib with plotly.
+None at the moment.
     
