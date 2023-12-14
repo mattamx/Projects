@@ -31,7 +31,7 @@ We then train various models with different hyperparameters in order to find our
 
 #### Results
 
-After training various models and tuning their hyperparameters we found the gradient boosting techniques gave us better RMSE results in comparison to the regression models initially deployed. We selected the LightGBM model as our ideal model due to the overall advantages of LGBM parameter tuning (e.g., boosting) and the flexibility from introducing of more features/pattern complexity.
+After training various models and tuning their hyperparameters we found the gradient boosting techniques gave us better RMSE results in comparison to the regression models initially deployed. We selected the LightGBM model as our ideal model due to the overall advantages of LGBM parameter tuning and the flexibility from introducing of more features/pattern complexity. 
 
 Our achieved RMSE value was that of ~44. This was partially achieved by tuning the `max_lag` and `rolling_mean` parameters crafted from feature creation. These parameters seem to have played a significant role (compared to some of the hyperparameters) in getting the RMSE near the target value.
 
