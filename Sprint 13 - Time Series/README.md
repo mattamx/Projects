@@ -8,7 +8,7 @@
 
 ### Project - Taxi Service Forecasting
 
-An taxi company would like to attract more drivers during peak hours leveraging historical data on taxi orders at airports. 
+A taxi company would like to attract more drivers during peak hours leveraging historical data on taxi orders at airports. 
 
 #### Task
 
