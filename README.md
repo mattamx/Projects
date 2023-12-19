@@ -27,6 +27,7 @@ All the cool projects I worked on during the TripleTen Data Science bootcamp. Yo
 ![image](https://github.com/mattamx/TripleTen_projects/assets/107958646/e3e96d3a-db1d-4cd8-b6fb-173872c47a46)
 ![image](https://github.com/mattamx/TripleTen_projects/assets/107958646/26e4c666-ca8e-4bd3-9df3-f1a807e6cce2)
 ![image](https://github.com/mattamx/TripleTen_projects/blob/072529a0a571e1bbca0e75d396b3c86cb2aa51ec/Sprint%2014%20-%20ML%20for%20Texts/newplot3.png)
+![Alt text](<Sprint 3 - Statistical Data Analysis/images/output4.png>)
 
 # Summary of planned updates
 - [ ] Data clean-up and code condensation through the use various functions and methods.
