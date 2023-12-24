@@ -1,5 +1,5 @@
 # TripleTen_projects
-All the cool projects I worked on during the TripleTen Data Science bootcamp. You'll track my evolution as a data scientist as I progress and learn more complex topics. You'll find me experimenting with various methods of exploratory data analysis and machine learning throughout the sprints.
+All the cool projects I worked on during the TripleTen Data Science bootcamp. You'll track my evolution as a data scientist as I progress and learn more complex topics. You'll find me experimenting with various methods of exploratory data analysis, visualizations and machine learning throughout the sprints.
 
 | Sprint | Topic | Project Title | Status
 | :---------------: | --------------- |--------------- |---------------
@@ -30,7 +30,7 @@ All the cool projects I worked on during the TripleTen Data Science bootcamp. Yo
 ![Alt text](<Sprint 3 - Statistical Data Analysis/images/output4.png>) 
 
 # Summary of planned updates
-- [ ] Data clean-up and code condensation through the use various functions and methods.
-- [ ] Visualization aligment to Plotly and deployment of further enhancements in order to catch up with current skills in PowerPoint and Tableau.
-    - [ ] Figure out a way to have Plotly illustration show up on GitHub.
-- [ ] Notebook structure re-organization, creating one template for all.
+- Data clean-up and code condensation through the use various functions and methods.
+- Visualization aligment to Plotly or Seaborn and deployment of further enhancements in order to catch up with current skills in PowerPoint and Tableau.
+    - Figure out a way to have Plotly illustration show up on GitHub.
+- Notebook template creation.
