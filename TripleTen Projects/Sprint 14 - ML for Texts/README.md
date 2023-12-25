@@ -8,7 +8,7 @@
 - Use BERT to convert textual data into embeddings.
 - Use texts to train ML models.
 
-### Project - Movie Review Sentiment Detection
+### Brief
 
 An online film community is developing a system for filtering and categorizing movie reviews. 
 

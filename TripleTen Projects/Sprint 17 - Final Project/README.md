@@ -2,7 +2,7 @@
 
 This is the final project I worked on in the TripleTen Data Science program. This project was broken out into three sections: **Part 1** - Creating a Project Plan, **Part 2** - Developing the solution code and **Part 3** - Finalizing the project with a solution report. It integrated a ton of material we've learned throughout the program, was a decent amount of fun.
 
-### Project - Churn Rate Predictability
+### Brief
 
 A telecom operator wants to forecast customers who might be planning on leaving its service. Those in danger of churning will be offered promotional codes and special plans.
 

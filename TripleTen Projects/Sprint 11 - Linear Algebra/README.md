@@ -6,7 +6,7 @@
 - Create machine learning classes.
 - Explain how linear regression works.
 
-### Project - Insurance Benefits Predictability
+### Brief
 
 An insurance company wants to solve several tasks with the help of machine learning, evaluate the possibility of doing so.
 

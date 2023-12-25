@@ -6,7 +6,7 @@
 - Build fully connected and convolutional networks.
 - Work with ResNet.
 
-### Project - Neural Network Activation
+### Brief
 
 A supermarket chain would like to explore the introduction of a computer vision system to help them adhere to alcohol laws. 
 

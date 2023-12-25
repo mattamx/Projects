@@ -6,7 +6,7 @@
 - How to adjust class weights, downsample, upsample, and tune thresholds for classification tasks.
 - To evaluate a model’s quality using R2 and MAE metrics in the regression tasks.
 
-### Project - Bank Customer Retention
+### Brief
 
 A bank's customers are leaving little by little, chipping away every month. The bank would like to predict whether a customer will leave the bank soon as it figured out that it's cheaper to save the existing customers rather than attract new ones. 
 

@@ -5,7 +5,7 @@
 - Studied supervised learning, and know how to develop models and evaluate their quality. 
 - Became familiar with machine learning and A/B testing. 
 
-### Project - Gold Extraction Evaluation
+### Brief
 
 A company who develops efficiency solutions for the mining industry would like to predict the amount of gold recovered from ore while eliminating unprofitable parameters.
 

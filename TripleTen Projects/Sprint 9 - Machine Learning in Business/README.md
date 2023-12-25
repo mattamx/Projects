@@ -6,7 +6,7 @@
 - Use bootstrap to calculate confidence intervals and business metrics.
 - Perform cross-validation so that conclusions about the model evaluation are more reliable.
 
-### Project - Optimal Mining Well Search
+### Brief
 
 As a mining company employee your task is to find the best place for a new well.
 

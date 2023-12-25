@@ -7,7 +7,7 @@
 - Local and global variables as well as functions and their parameters.
 - pandas: the key library for data manipulation and wrangling.
 
-### Project - Music Preferences Across Cities
+### Brief
 
 Using real Yandex.Music data, analyzing the music preferences of the cities of Springfield and Shelbyville comparing user behavior for these two cities.
 

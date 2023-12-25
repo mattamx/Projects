@@ -10,7 +10,7 @@
 - How to create and manipulate PySpark DataFrames.
 - How to use SQL queries in PySpark.
 
-### Project - Taxi Ride Weather Impact 
+### Brief
 
 As an employee of a new ride-sharing company launching in Chicago, you want to understand passenger preferences and the impact of external factors on rides.
 

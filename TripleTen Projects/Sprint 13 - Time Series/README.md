@@ -6,7 +6,7 @@
 - Create features for time series.
 - Train models using time series.
 
-### Project - Taxi Service Forecasting
+### Brief
 
 A taxi company would like to attract more drivers during peak hours leveraging historical data on taxi orders at airports. 
 

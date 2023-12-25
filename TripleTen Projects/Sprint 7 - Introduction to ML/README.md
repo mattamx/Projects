@@ -6,7 +6,7 @@
 - To train a model and measure its quality using the sklearn library.
 - To evaluate and test models.
 
-### Project - Subscriber Plan Analysis 
+### Brief
 
 A mobile carrier has found many of their subscribers are still signed up for legacy plans. The company wants to develop a model to help them analyze behavior and recommend a newer plan.
 

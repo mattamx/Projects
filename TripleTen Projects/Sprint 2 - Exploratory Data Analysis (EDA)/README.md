@@ -7,7 +7,7 @@
 - Filtering and grouping data for more advanced aggregate analysis and engineering new columns by processing existing columns.
 - Combining data via merging and concatenation.
 
-### Project - Instacart Insights
+### Brief
 
 A grocery delivery platform wants further insight into the shopping habits of its customers.
 

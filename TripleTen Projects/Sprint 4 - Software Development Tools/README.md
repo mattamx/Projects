@@ -7,7 +7,7 @@
 - How to utilize streamlit and configure files.
 - Work with the Render platform.
 
-### Project - Utilizing Render
+### Brief
 
 This project contains Real Madrid (football club) wage information by player for the last 5 seasons. Users are able to filter the dataframe by each column and/or parameters included in said columns. The project also includes 3 charts, two histograms and one scatterplot which visualize wage/season information.
 

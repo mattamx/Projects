@@ -7,7 +7,7 @@
 - Perform hypothesis testing and prove whether a particular hypothesis is valid.
 - Skills needed to summarize your work and come up with a set of valuable conclusions for a business’s needs.
 
-### Project - Video Game Campaign Analysis
+### Brief
 
 As an employee of a video game store you need to indentify patters that determine whether a game succeeds or not. Allowing you to spot potential big winners and plan advertising campaigns. 
 

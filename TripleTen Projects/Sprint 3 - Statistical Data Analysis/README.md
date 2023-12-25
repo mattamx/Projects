@@ -7,7 +7,7 @@
 - Know how to define and calculate both normal and binomial distributions.
 - Gained basic understanding of probability theory and know how to formulate and test hypotheses.
 
-### Project - Telecom Strategic Advertising
+### Brief
 
 The commercial department of a telecom operator wants to know which of their current plans bring in more revenue in order to adjust the advertising budget.
 
