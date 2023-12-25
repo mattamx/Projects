@@ -5,22 +5,24 @@ All the cool projects I worked on during the TripleTen Data Science bootcamp. Yo
 | :---------------: | --------------- |--------------- |---------------
 | [17](<Sprint 17 - Final Project/README.md>) | Final Project | Predicting churn rates for a telecommunications company | Scheduled for updates
 | [15](<Sprint 15 - Computer Vision/README.md>) | Computer Vision | Deploying computer vision for a supermarket chain | No scheduled updates
-| [14](<Sprint 14 - ML for Texts/README.md>) | Machine Learning for Texts | Detecting review sentiment for an online film community | Included Plotly Graphs <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark.png" alt="Check Mark" width="20" height="20" />
+| [14](<Sprint 14 - ML for Texts/README.md>) | Machine Learning for Texts | Detecting review sentiment for an online film community | Included Plotly graphs <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark.png" alt="Check Mark" width="20" height="20" />
 | [13](<Sprint 13 - Time Series/README.md>) | Time Series | Predicting hourly taxi orders for a taxi service company | No scheduled updates
-| [12](<Sprint 12 - Numerical Methods/README.md>) | Numerical Methods | Determining car market value for an used car sales service app | Included Seaborn Graphs <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark.png" alt="Check Mark" width="20" height="20" />
+| [12](<Sprint 12 - Numerical Methods/README.md>) | Numerical Methods | Determining car market value for an used car sales service app | Included Seaborn graphs <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark.png" alt="Check Mark" width="20" height="20" />
 | [11](<Sprint 11 - Linear Algebra/README.md>) | Linear Algebra | Prognosticating claims for an insurance benefits company | Scheduled for updates
 | [10](<Sprint 10 - Integrated Project 2/README.md>) | Integrated Project 2 | Estimating gold recovery for a company that provides solutions to the mining industry | No scheduled updates
 | [9](<Sprint 9 - Machine Learning in Business/README.md>) | Machine Learning in Business | Searching for optimal mining wells through profit margins | Scheduled for updates
 | [8](<Sprint 8 - Supervised Learning/README.md>) | Supervised Learning | Forecasting customer attrition for a bank | Scheduled for updates
 | [7](<Sprint 7 - Introduction to ML/README.md>) | Introduction to Machine Learning | Analyzing subscriber behavior for a mobile carrier | Scheduled for updates
 | [6](<Sprint 6 - Data Collection and Storage (SQL)/README.md>) | Data Collection and Storage (SQL) | Hypothesis Testing: Impact of external factors on taxi rides | No scheduled updates
-| [5](<Sprint 5 - Integrated Project 1/README.md>) | Integrated Project 1 | Hypothesis Testing: Patterns that determine a video game's success | Scheduled for updates
+| [5](<Sprint 5 - Integrated Project 1/README.md>) | Integrated Project 1 | Hypothesis Testing: Patterns that determine a video game's success | Included Seaborn graphs, amended Plotly graphs <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark.png" alt="Check Mark" width="20" height="20" />
 | [4](<Sprint 4 - Software Development Tools/README.md>) | Software Development Tools | Developing a web application through Render | No scheduled updates
 | [3](<Sprint 3 - Statistical Data Analysis/README.md>) | Statistical Data Analysis | Hypothesis Testing: Revenue analysis for subscriber plans | Scheduled for updates
-| [2](<Sprint 2 - Exploratory Data Analysis (EDA)/README.md>) | Exploratory Data Analysis | Customer shopping habit insights for the Instacart platform | Included Plotly Graphs <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark.png" alt="Check Mark" width="20" height="20" />
+| [2](<Sprint 2 - Exploratory Data Analysis (EDA)/README.md>) | Exploratory Data Analysis | Customer shopping habit insights for the Instacart platform | Included Plotly graphs <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark.png" alt="Check Mark" width="20" height="20" />
 | [1](<Sprint 1 - Working with Data in Python/README.md>) | Basic Python | Music preferences across cities | Scheduled for updates
 
 # Chart Samples
+![Alt text](<Sprint 5 - Integrated Project 1/images/newplot2.png>)
+![Alt text](<Sprint 5 - Integrated Project 1/images/newplot1.png>)
 ![Alt text](<Sprint 12 - Numerical Methods/images/output2.png>)
 ![Alt text](<Sprint 14 - ML for Texts/images/newplot1.png>)
 ![image](https://github.com/mattamx/TripleTen_projects/blob/d5c9d5580743b32e3f0432b3d9916680bdd90473/Sprint%2014%20-%20ML%20for%20Texts/newplot.png)
