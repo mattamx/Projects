@@ -3,22 +3,22 @@ All the cool projects I worked on during the TripleTen Data Science bootcamp. Yo
 
 | Sprint | Topic | Project Title | Status
 | :---------------: | --------------- |--------------- |---------------
-| [17](https://github.com/mattamx/TripleTen_projects/blob/cbb86f189e1946c022ed45feb1c0c53c37c6b6a3/Sprint%2017%20-%20Final%20Project/README.md) | Final Project | Predicting churn rates for a telecommunications company | Scheduled for updates
-| [15](https://github.com/mattamx/TripleTen_projects/blob/444e3781094a75b31025f456b204a23222d18a8a/Sprint%2015%20-%20Computer%20Vision/README.md) | Computer Vision | Deploying computer vision for a supermarket chain | No scheduled updates
-| [14](https://github.com/mattamx/TripleTen_projects/blob/470813bea6bfe3bc1c7c916811d80ee1cd9221e2/Sprint%2014%20-%20ML%20for%20Texts/README.md) | Machine Learning for Texts | Detecting review sentiment for an online film community | Graph conversion to Plotly completed
-| [13](https://github.com/mattamx/TripleTen_projects/blob/6224172c9323c4680395174404186493a215dd8d/Sprint%2013%20-%20Time%20Series/README.md) | Time Series | Predicting hourly taxi orders for a taxi service company | No scheduled updates
-| [12](https://github.com/mattamx/TripleTen_projects/blob/9277025ee9b3a7d011c151704a8823f6c75bd635/Sprint%2012%20-%20Numerical%20Methods/README.md) | Numerical Methods | Determining car market value for an used car sales service app | Scheduled for updates
-| [11](https://github.com/mattamx/TripleTen_projects/blob/1c96d8dadf95d3ba8af3c2bf9188f2b8cda318f7/Sprint%2011%20-%20Linear%20Algebra/README.md) | Linear Algebra | Prognosticating claims for an insurance benefits company | Scheduled for updates
-| [10](https://github.com/mattamx/TripleTen_projects/blob/0009086dc8362dc46b15ac6014519c40b74122c0/Sprint%2010%20-%20Integrated%20Project%202/README.md) | Integrated Project 2 | Estimating gold recovery for a company that provides solutions to the mining industry | No scheduled updates
-| [9](https://github.com/mattamx/TripleTen_projects/blob/5c5a45ae2f086ae26a43e0e01bef68404fc533a5/Sprint%209%20-%20Machine%20Learning%20in%20Business/README.md) | Machine Learning in Business | Searching for optimal mining wells through profit margins | Scheduled for updates
-| [8](https://github.com/mattamx/TripleTen_projects/blob/8026f481d4b98aae0ce9f08473c5a247c6ca2caa/Sprint%208%20-%20Supervised%20Learning/README.md) | Supervised Learning | Forecasting customer attrition for a bank | Scheduled for updates
-| [7](https://github.com/mattamx/TripleTen_projects/blob/b184996f091bbcc5cdd4991e4a86e059dbdfd62a/Sprint%207%20-%20Introduction%20to%20ML/README.md) | Introduction to Machine Learning | Analyzing subscriber behavior for a mobile carrier | Scheduled for updates
-| [6](https://github.com/mattamx/TripleTen_projects/blob/01eb961f950bc99b5ff2ee5a65c311719e8c2f1f/Sprint%206%20-%20Data%20Collection%20and%20Storage%20(SQL)/README.md) | Data Collection and Storage (SQL) | Hypothesis Testing: Impact of external factors on taxi rides | No scheduled updates
-| [5](https://github.com/mattamx/TripleTen_projects/blob/cf86c0ae8638a6cf72cc005e20b90f51b1dbd8ed/Sprint%205%20-%20Integrated%20Project%201/README.md) | Integrated Project 1 | Hypothesis Testing: Patterns that determine a video game's success | Scheduled for updates
-| [4](https://github.com/mattamx/TripleTen_projects/blob/19b873d92882dabf966086be620250e96363933b/Sprint%204%20-%20Software%20Development%20Tools/README.md) | Software Development Tools | Developing a web application through Render | No scheduled updates
-| [3](https://github.com/mattamx/TripleTen_projects/blob/ec989cfe1cbfe2d32398463d7fc96f95491f7b69/Sprint%203%20-%20Statistical%20Data%20Analysis/README.md) | Statistical Data Analysis | Hypothesis Testing: Revenue analysis for subscriber plans | Scheduled for updates
-| [2](https://github.com/mattamx/TripleTen_projects/blob/096eca6428af8b57bdf973a172679659b4b1ff90/Sprint%202%20-%20Exploratory%20Data%20Analysis%20(EDA)/README.md) | Exploratory Data Analysis | Customer shopping habit insights for the Instacart platform | Graph conversion to Plotly completed
-| [1](https://github.com/mattamx/TripleTen_projects/blob/1c96d8dadf95d3ba8af3c2bf9188f2b8cda318f7/Sprint%201%20-%20Working%20with%20Data%20in%20Python/README.md) | Basic Python | Music preferences across cities | Scheduled for updates
+| [17](<Sprint 17 - Final Project/README.md>) | Final Project | Predicting churn rates for a telecommunications company | Scheduled for updates
+| [15](<Sprint 15 - Computer Vision/README.md>) | Computer Vision | Deploying computer vision for a supermarket chain | No scheduled updates
+| [14](<Sprint 14 - ML for Texts/README.md>) | Machine Learning for Texts | Detecting review sentiment for an online film community | Included Plotly Graphs
+| [13](<Sprint 13 - Time Series/README.md>) | Time Series | Predicting hourly taxi orders for a taxi service company | No scheduled updates
+| [12](<Sprint 12 - Numerical Methods/README.md>) | Numerical Methods | Determining car market value for an used car sales service app | Included Seaborn Graphs
+| [11](<Sprint 11 - Linear Algebra/README.md>) | Linear Algebra | Prognosticating claims for an insurance benefits company | Scheduled for updates
+| [10](<Sprint 10 - Integrated Project 2/README.md>) | Integrated Project 2 | Estimating gold recovery for a company that provides solutions to the mining industry | No scheduled updates
+| [9](<Sprint 9 - Machine Learning in Business/README.md>) | Machine Learning in Business | Searching for optimal mining wells through profit margins | Scheduled for updates
+| [8](<Sprint 8 - Supervised Learning/README.md>) | Supervised Learning | Forecasting customer attrition for a bank | Scheduled for updates
+| [7](<Sprint 7 - Introduction to ML/README.md>) | Introduction to Machine Learning | Analyzing subscriber behavior for a mobile carrier | Scheduled for updates
+| [6](<Sprint 6 - Data Collection and Storage (SQL)/README.md>) | Data Collection and Storage (SQL) | Hypothesis Testing: Impact of external factors on taxi rides | No scheduled updates
+| [5](<Sprint 5 - Integrated Project 1/README.md>) | Integrated Project 1 | Hypothesis Testing: Patterns that determine a video game's success | Scheduled for updates
+| [4](<Sprint 4 - Software Development Tools/README.md>) | Software Development Tools | Developing a web application through Render | No scheduled updates
+| [3](<Sprint 3 - Statistical Data Analysis/README.md>) | Statistical Data Analysis | Hypothesis Testing: Revenue analysis for subscriber plans | Scheduled for updates
+| [2](<Sprint 2 - Exploratory Data Analysis (EDA)/README.md>) | Exploratory Data Analysis | Customer shopping habit insights for the Instacart platform | Included Plotly Graphs
+| [1](<Sprint 1 - Working with Data in Python/README.md>) | Basic Python | Music preferences across cities | Scheduled for updates
 
 # Chart Samples
 ![Alt text](<Sprint 14 - ML for Texts/images/newplot1.png>)
