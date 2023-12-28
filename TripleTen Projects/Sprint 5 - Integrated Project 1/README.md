@@ -23,16 +23,26 @@ Find patterns in the open source data (*includes user/expert reviews, genres, pl
 
 The data is contained in one file:
 
-— `Name`: video game name
+- `Name`: video game name
+
 — `Platform`: video game platform
+
 — `Year_of_Release`: video game release year
+
 — `Genre`: video game genre
+
 — `NA_sales`: (North American sales in USD million) 
+
 — `EU_sales`: (sales in Europe in USD million) 
+
 — `JP_sales`: (sales in Japan in USD million) 
+
 — `Other_sales`: (sales in other countries in USD million) 
+
 — `Critic_Score`: (maximum of 100) 
+
 — `User_Score`: (maximum of 10) 
+
 — `Rating`: (ESRB)
 
 *Data for 2016 may be incomplete.*
