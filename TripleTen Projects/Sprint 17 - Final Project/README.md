@@ -72,4 +72,4 @@ Included is the full Notebook which breaks out the description of our results.
 
 # Plans for updates
 
-Update and fix the display of plotly graphs (on GitHub).
+None at the moment.

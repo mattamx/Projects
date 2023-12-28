@@ -77,5 +77,5 @@ Included is the full Notebook which breaks out the description of our results.
 
 # Plans for updates
 
-1) Deploy functions to remove repetitive tasks, 2) Discover newer visualization patterns to tell the story and 3) Explore more ways of leveraging `.query()` while removing lines of code that can be one in one single thread.
+None at the moment.
     
