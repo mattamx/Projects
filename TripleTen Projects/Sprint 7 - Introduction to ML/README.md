@@ -36,10 +36,14 @@ Through model hyperparameter tuning, iteratively searching for the best score/es
 
 # Chart Examples
 
-*To be updated*
+![Alt text](images/output1.png)
+
+![Alt text](images/output.png)
+
+![Alt text](images/output2.png)
 
 Included is the full Notebook which breaks out the description of our results.
 
 # Plans for updates
 
-Create a few visualization for our dataframe or the model outputs.
+Nothing at the moment.
