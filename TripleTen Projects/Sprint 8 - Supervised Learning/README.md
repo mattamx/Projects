@@ -49,8 +49,12 @@ Through the usage of both class balance/weight adjustments and classification th
 
 ![Alt text](images/output1.png)
 
+![Alt text](images/output2.png)
+
+![Alt text](images/output3.png)
+
 Included is the full Notebook which breaks out the description of our results.
 
 # Plans for updates
 
-Replace matplotlib visualizations with plotly, create new visualizations under EDA and clean-up model training section.
+None at the moment.

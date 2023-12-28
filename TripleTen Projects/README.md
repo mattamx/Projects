@@ -11,14 +11,14 @@ All the cool projects I worked on during the TripleTen Data Science bootcamp. Yo
 | [11](<Sprint 11 - Linear Algebra/README.md>) | Linear Algebra | Prognosticating claims for an insurance benefits company | Included Seaborn graphs <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark.png" alt="Check Mark" width="20" height="20" />
 | [10](<Sprint 10 - Integrated Project 2/README.md>) | Integrated Project 2 | Estimating gold recovery for a company that provides solutions to the mining industry | No scheduled updates
 | [9](<Sprint 9 - Machine Learning in Business/README.md>) | Machine Learning in Business | Searching for optimal mining wells through profit margins | Updated Seaborn graphs <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark.png" alt="Check Mark" width="20" height="20" />
-| [8](<Sprint 8 - Supervised Learning/README.md>) | Supervised Learning | Forecasting customer attrition for a bank | Scheduled for updates
+| [8](<Sprint 8 - Supervised Learning/README.md>) | Supervised Learning | Forecasting customer attrition for a bank | Included Seaborn graphs <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark.png" alt="Check Mark" width="20" height="20" />
 | [7](<Sprint 7 - Introduction to ML/README.md>) | Introduction to Machine Learning | Analyzing subscriber behavior for a mobile carrier | Included Seaborn graphs <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark.png" alt="Check Mark" width="20" height="20" />
 | [6](<Sprint 6 - Data Collection and Storage (SQL)/README.md>) | Data Collection and Storage (SQL) | Hypothesis Testing: Impact of external factors on taxi rides | No scheduled updates
 | [5](<Sprint 5 - Integrated Project 1/README.md>) | Integrated Project 1 | Hypothesis Testing: Patterns that determine a video game's success | Included Seaborn graphs, amended Plotly graphs <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark.png" alt="Check Mark" width="20" height="20" />
 | [4](<Sprint 4 - Software Development Tools/README.md>) | Software Development Tools | Developing a web application through Render | No scheduled updates
 | [3](<Sprint 3 - Statistical Data Analysis/README.md>) | Statistical Data Analysis | Hypothesis Testing: Revenue analysis for subscriber plans | Scheduled for updates
 | [2](<Sprint 2 - Exploratory Data Analysis (EDA)/README.md>) | Exploratory Data Analysis | Customer shopping habit insights for the Instacart platform | Included Plotly graphs <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark.png" alt="Check Mark" width="20" height="20" />
-| [1](<Sprint 1 - Working with Data in Python/README.md>) | Basic Python | Music preferences across cities | Scheduled for updates
+| [1](<Sprint 1 - Working with Data in Python/README.md>) | Basic Python | Music preferences across cities | No scheduled updates
 
 # Chart Samples
 ![Alt text](<Sprint 5 - Integrated Project 1/images/newplot2.png>)

@@ -49,4 +49,4 @@ Included is the full Notebook which breaks out the description of our results.
 
 # Plans for updates
 
-Re-organize and create a few visualizations.    
+None at the moment. Leaving as-is since it was my first introduction into all of this.  

@@ -62,4 +62,4 @@ Included is the full Notebook which breaks out the description of our results.
 
 # Plans for updates
 
-Function, code clean-up and more visualizations for the EDA step.
+None at the moment.
