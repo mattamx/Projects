@@ -68,9 +68,10 @@ After navigating through the various steps for this project, our general conclus
 
 ![Alt text](images/newplot3.png)
 
-![Alt text](images/newplot4.png)
+![Alt text](images/newplot1.png)
 
-![Alt text](images/newplot5.png)
+![Alt text](images/output.png)
+
 
 Included is the full Notebook which breaks out the description of our results.
 
