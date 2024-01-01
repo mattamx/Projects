@@ -30,7 +30,7 @@ All the cool projects I worked on during the TripleTen Data Science bootcamp. Yo
 ![Alt text](<Sprint 6 - Data Collection and Storage (SQL)/images/newplot.png>)
 ![image](https://github.com/mattamx/TripleTen_projects/blob/072529a0a571e1bbca0e75d396b3c86cb2aa51ec/Sprint%2014%20-%20ML%20for%20Texts/newplot3.png)
 ![Alt text](<Sprint 17 - Final Project/images/newplot5.png>)
-![Alt text](<Sprint 17 - Final Project/images/newplot6.png>)
+![Alt text](<Sprint 17 - Final Project/images/newplot6.png>) 
 
 # Summary of planned updates
 - Data clean-up and code condensation through the use various functions and methods.
