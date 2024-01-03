@@ -21,6 +21,7 @@ All the cool projects I worked on during the TripleTen Data Science bootcamp. Yo
 | [1](<Sprint 1 - Working with Data in Python/README.md>) | Basic Python | Music preferences across cities | No scheduled updates
 
 # Chart Samples
+![Alt text](<Sprint 5 - Integrated Project 1/images/output1.png>)
 ![Alt text](<Sprint 5 - Integrated Project 1/images/newplot2.png>)
 ![Alt text](<Sprint 5 - Integrated Project 1/images/newplot1.png>)
 ![Alt text](<Sprint 12 - Numerical Methods/images/output2.png>)

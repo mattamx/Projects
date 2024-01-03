@@ -62,6 +62,10 @@ After navigating through the various steps for this project, our general conclus
 
 # Chart Examples
 
+![Alt text](images/output1.png)
+
+![Alt text](images/output2.png)
+
 ![Alt text](images/newplot.png)
 
 ![Alt text](images/newplot2.png)
