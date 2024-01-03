@@ -11,7 +11,7 @@ Including the interesting projects I've completed on the DataCamp platform, a go
 | [4](https://github.com/mattamx/DataCamp_projects/blob/ce33264d6939b96e79109fc20711f437746462bb/Generating%20Keywords%20for%20Google%20Ads/notebook.ipynb) | Generating Keywords for Google Ads | ✔️
 | [5](https://github.com/mattamx/DataCamp_projects/blob/0249f1885ea78ea3740b904578472799cbd89d7f/Exploring%20the%20Evolution%20of%20Lego/notebook.ipynb) | Exploring the Evolution of Lego | ✔️
 | 6 | Exploring NYC Public School Test Result Scores | 🚧
-| 7 | Visualizing the History of Nobel Prize Winners | 🚧
+| [7](<Visualizing the History of Nobel Prize Winners/notebook.ipynb>) | Visualizing the History of Nobel Prize Winners | ✔️
 | 8 | Analyzing Crime in Los Angeles | 🚧
 | 9 | Customer Analytics: Preparing Data for Modeling | 🚧
 | 10 | Exploring Airbnb Market Trends | 🚧
