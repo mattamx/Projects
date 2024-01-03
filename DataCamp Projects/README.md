@@ -27,3 +27,5 @@ Including the interesting projects I've completed on the DataCamp platform, a go
 ![Alt text](<Investigating Netflix Movies and Guest Stars in The Office/images/output.png>)
 
 ![Alt text](<Investigating Netflix Movies/images/output.png>)
+
+![Alt text](<Exploring NYC Public School Test Result Scores/images/output.png>)
