@@ -1,5 +1,5 @@
 # DataCamp_projects 🚧
-Including the interesting projects I've completed on the DataCamp platform, a good form of practice for me. 
+Including the projects I've completed on the DataCamp platform as I go through the 'Professional Data Scientist' track.
 
 *This is all in progress and will be updating it on a weekly basis.*
 
