@@ -9,7 +9,7 @@
 
 ### Brief
 
-As an employee of a video game store you need to indentify patters that determine whether a game succeeds or not. Allowing you to spot potential big winners and plan advertising campaigns. 
+As an employee of a video game store you need to identify patters that determine whether a game succeeds or not. Allowing you to spot potential big winners and plan advertising campaigns. 
 
 #### Task
 
