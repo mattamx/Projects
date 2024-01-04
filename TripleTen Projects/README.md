@@ -6,7 +6,7 @@ All the cool projects I worked on during the TripleTen Data Science bootcamp. Yo
 | [17](<Sprint 17 - Final Project/README.md>) | Final Project | Predicting churn rates for a telecommunications company | Included Seaborn graphs <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark.png" alt="Check Mark" width="20" height="20" />
 | [15](<Sprint 15 - Computer Vision/README.md>) | Computer Vision | Deploying computer vision for a supermarket chain | No scheduled updates
 | [14](<Sprint 14 - ML for Texts/README.md>) | Machine Learning for Texts | Detecting review sentiment for an online film community | Included Plotly graphs <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark.png" alt="Check Mark" width="20" height="20" />
-| [13](<Sprint 13 - Time Series/README.md>) | Time Series | Predicting hourly taxi orders for a taxi service company | No scheduled updates
+| [13](<Sprint 13 - Time Series/README.md>) | Time Series | Predicting hourly taxi orders for a taxi service company | Included Seaborn graphs <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark.png" alt="Check Mark" width="20" height="20" />
 | [12](<Sprint 12 - Numerical Methods/README.md>) | Numerical Methods | Determining car market value for an used car sales service app | Included Seaborn graphs <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark.png" alt="Check Mark" width="20" height="20" />
 | [11](<Sprint 11 - Linear Algebra/README.md>) | Linear Algebra | Prognosticating claims for an insurance benefits company | Included Seaborn graphs <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark.png" alt="Check Mark" width="20" height="20" />
 | [10](<Sprint 10 - Integrated Project 2/README.md>) | Integrated Project 2 | Estimating gold recovery for a company that provides solutions to the mining industry | No scheduled updates
@@ -28,8 +28,10 @@ All the cool projects I worked on during the TripleTen Data Science bootcamp. Yo
 <kbd> ![Alt text](<Sprint 14 - ML for Texts/images/newplot1.png>) </kbd> 
 <kbd> ![image](https://github.com/mattamx/TripleTen_projects/blob/d5c9d5580743b32e3f0432b3d9916680bdd90473/Sprint%2014%20-%20ML%20for%20Texts/newplot.png) </kbd> 
 <kbd> ![image](https://github.com/mattamx/TripleTen_projects/assets/107958646/a959cf5c-6000-448d-9d26-ef5d97a29aec) </kbd> 
-<kbd> ![Alt text](<Sprint 6 - Data Collection and Storage (SQL)/images/newplot.png>) </kbd> 
+<kbd> ![Alt text](<Sprint 6 - Data Collection and Storage (SQL)/images/newplot.png>) 
+<kbd> ![Alt text](<Sprint 13 - Time Series/images/newplot5.png>) </kbd> 
 <kbd> ![image](https://github.com/mattamx/TripleTen_projects/blob/072529a0a571e1bbca0e75d396b3c86cb2aa51ec/Sprint%2014%20-%20ML%20for%20Texts/newplot3.png) </kbd> 
+<kbd> ![Alt text](<Sprint 17 - Final Project/images/output1.png>) </kbd> 
 <kbd> ![Alt text](<Sprint 17 - Final Project/images/newplot5.png>) </kbd> 
 <kbd> ![Alt text](<Sprint 17 - Final Project/images/newplot6.png>) </kbd> 
 

@@ -45,6 +45,8 @@ Our achieved RMSE value was that of ~44. This was partially achieved by tuning t
 
 ![Alt text](images/newplot4.png)
 
+![Alt text](images/newplot5.png)
+
 Included is the full Notebook which breaks out the description of our results.
 
 # Plans for updates
