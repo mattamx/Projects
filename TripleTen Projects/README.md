@@ -40,3 +40,4 @@ All the cool projects I worked on during the TripleTen Data Science bootcamp. Yo
 - Visualization aligment to Plotly or Seaborn and deployment of further enhancements in order to catch up with current skills in PowerPoint and Tableau.
     - Figure out a way to have Plotly illustration show up on GitHub.
 - Notebook template creation.
+- Revise data story telling with narrative structure. 
