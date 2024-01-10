@@ -13,7 +13,7 @@ Including the projects I've completed on the DataCamp platform as I go through t
 | [6](<Exploring NYC Public School Test Result Scores/notebook.ipynb>) | Exploring NYC Public School Test Result Scores | ✔️
 | [7](<Visualizing the History of Nobel Prize Winners/notebook.ipynb>) | Visualizing the History of Nobel Prize Winners | ✔️
 | [8](<Analyzing Crime in Los Angeles/notebook.ipynb>) | Analyzing Crime in Los Angeles | ✔️
-| [9](<Customer Analytics: Preparing Data for Modeling/notebook.ipynb>) | Customer Analytics: Preparing Data for Modeling | ✔️ 
+| [9](https://github.com/mattamx/Projects/blob/7ab96ab9fb42d73aac8fb11fdee63d00e3e7068d/DataCamp%20Projects/Customer%20Analytics%3A%20Preparing%20Data%20for%20Modeling/notebook.ipynb) | Customer Analytics: Preparing Data for Modeling | ✔️ 
 | 10 | Exploring Airbnb Market Trends | 🚧
 | 11 | Modeling Car Insurance Claim Outcomes | 🚧
 | 12 | Hypothesis Testing with Men's and Women's Soccer Matches | 🚧
