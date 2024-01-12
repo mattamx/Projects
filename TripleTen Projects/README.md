@@ -1,24 +1,27 @@
 # TripleTen_projects
-All the cool projects I worked on during the TripleTen Data Science bootcamp. You'll track my evolution as a data scientist as I progress and learn more complex topics. You'll find me experimenting with various methods of exploratory data analysis, visualizations and machine learning throughout the sprints.
+All the cool projects I worked on during the TripleTen Data Science bootcamp. You'll track my evolution as I progress and learn more complex topics. You'll find me experimenting with various methods of exploratory data analysis, visualizations and machine learning throughout the sprints. 
 
-| Sprint | Topic | Project Title | Status
+- Since this was all part-time, I didn't get a chance to implement other methods of analysis or visualizations that I studied throughout the course or have since learned. The aim is to add more statistical analyses/summaries as well as model visualizations.
+    - Once that is set, the larger workload will be on setting a notebook template throughout for standardization.
+
+| Sprint | Topic | Project Title | Notes
 | :---------------: | --------------- |--------------- |---------------
-| [17](<Sprint 17 - Final Project/README.md>) | Final Project | Predicting churn rates for a telecommunications company | Included Seaborn graphs <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark.png" alt="Check Mark" width="20" height="20" />
-| [15](<Sprint 15 - Computer Vision/README.md>) | Computer Vision | Deploying computer vision for a supermarket chain | No scheduled updates
-| [14](<Sprint 14 - ML for Texts/README.md>) | Machine Learning for Texts | Detecting review sentiment for an online film community | BERT model deployment pending
-| [13](<Sprint 13 - Time Series/README.md>) | Time Series | Predicting hourly taxi orders for a taxi service company | Included Seaborn graphs <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark.png" alt="Check Mark" width="20" height="20" />
-| [12](<Sprint 12 - Numerical Methods/README.md>) | Numerical Methods | Determining car market value for an used car sales service app | Included Seaborn graphs <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark.png" alt="Check Mark" width="20" height="20" />
-| [11](<Sprint 11 - Linear Algebra/README.md>) | Linear Algebra | Prognosticating claims for an insurance benefits company | Included Seaborn graphs <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark.png" alt="Check Mark" width="20" height="20" />
-| [10](<Sprint 10 - Integrated Project 2/README.md>) | Integrated Project 2 | Estimating gold recovery for a company that provides solutions to the mining industry | No scheduled updates
-| [9](<Sprint 9 - Machine Learning in Business/README.md>) | Machine Learning in Business | Searching for optimal mining wells through profit margins | Updated Seaborn graphs <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark.png" alt="Check Mark" width="20" height="20" />
-| [8](<Sprint 8 - Supervised Learning/README.md>) | Supervised Learning | Forecasting customer attrition for a bank | Included Seaborn graphs <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark.png" alt="Check Mark" width="20" height="20" />
-| [7](<Sprint 7 - Introduction to ML/README.md>) | Introduction to Machine Learning | Analyzing subscriber behavior for a mobile carrier | Included Seaborn graphs <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark.png" alt="Check Mark" width="20" height="20" />
-| [6](<Sprint 6 - Data Collection and Storage (SQL)/README.md>) | Data Collection and Storage (SQL) | Hypothesis Testing: Impact of external factors on taxi rides | No scheduled updates
-| [5](<Sprint 5 - Integrated Project 1/README.md>) | Integrated Project 1 | Hypothesis Testing: Patterns that determine a video game's success | Included Seaborn graphs, amended Plotly graphs <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark.png" alt="Check Mark" width="20" height="20" />
-| [4](<Sprint 4 - Software Development Tools/README.md>) | Software Development Tools | Developing a web application through Render | No scheduled updates
-| [3](<Sprint 3 - Statistical Data Analysis/README.md>) | Statistical Data Analysis | Hypothesis Testing: Revenue analysis for subscriber plans | Amended Seaborn/Matplotlib graphs <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark.png" alt="Check Mark" width="20" height="20" />
-| [2](<Sprint 2 - Exploratory Data Analysis (EDA)/README.md>) | Exploratory Data Analysis | Customer shopping habit insights for the Instacart platform | Included Plotly graphs <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark.png" alt="Check Mark" width="20" height="20" />
-| [1](<Sprint 1 - Working with Data in Python/README.md>) | Basic Python | Music preferences across cities | No scheduled updates
+| [17](<Sprint 17 - Final Project/README.md>) | Final Project | Predicting churn rates for a telecommunications company | -
+| [15](<Sprint 15 - Computer Vision/README.md>) | Computer Vision | Deploying computer vision for a supermarket chain | -
+| [14](<Sprint 14 - ML for Texts/README.md>) | Machine Learning for Texts | Detecting review sentiment for an online film community | Wokring on BERT model shortly
+| [13](<Sprint 13 - Time Series/README.md>) | Time Series | Predicting hourly taxi orders for a taxi service company | -
+| [12](<Sprint 12 - Numerical Methods/README.md>) | Numerical Methods | Determining car market value for an used car sales service app | -
+| [11](<Sprint 11 - Linear Algebra/README.md>) | Linear Algebra | Prognosticating claims for an insurance benefits company | -
+| [10](<Sprint 10 - Integrated Project 2/README.md>) | Integrated Project 2 | Estimating gold recovery for a company that provides solutions to the mining industry | -
+| [9](<Sprint 9 - Machine Learning in Business/README.md>) | Machine Learning in Business | Searching for optimal mining wells through profit margins | -
+| [8](<Sprint 8 - Supervised Learning/README.md>) | Supervised Learning | Forecasting customer attrition for a bank | -
+| [7](<Sprint 7 - Introduction to ML/README.md>) | Introduction to Machine Learning | Analyzing subscriber behavior for a mobile carrier | -
+| [6](<Sprint 6 - Data Collection and Storage (SQL)/README.md>) | Data Collection and Storage (SQL) | Hypothesis Testing: Impact of external factors on taxi rides | -
+| [5](<Sprint 5 - Integrated Project 1/README.md>) | Integrated Project 1 | Hypothesis Testing: Patterns that determine a video game's success | -
+| [4](<Sprint 4 - Software Development Tools/README.md>) | Software Development Tools | Developing a web application through Render | -
+| [3](<Sprint 3 - Statistical Data Analysis/README.md>) | Statistical Data Analysis | Hypothesis Testing: Revenue analysis for subscriber plans | -
+| [2](<Sprint 2 - Exploratory Data Analysis (EDA)/README.md>) | Exploratory Data Analysis | Customer shopping habit insights for the Instacart platform | -
+| [1](<Sprint 1 - Working with Data in Python/README.md>) | Basic Python | Music preferences across cities | -
 
 # Chart Samples
 <kbd> ![Alt text](<Sprint 5 - Integrated Project 1/images/output1.png>) </kbd> 
@@ -37,7 +40,8 @@ All the cool projects I worked on during the TripleTen Data Science bootcamp. Yo
 
 # Summary of planned updates
 - Data clean-up and code condensation through the use various functions and methods.
-- Visualization aligment to Plotly or Seaborn and deployment of further enhancements in order to catch up with current skills in PowerPoint and Tableau.
-    - Figure out a way to have Plotly illustration show up on GitHub.
+- Plotly/Seaborn visualization additions and further alignment to mirror work done in PowerPoint and Tableau.
+    - Note: need to out a way to have Plotly illustration show up on GitHub.
 - Notebook template creation.
-- Revise data story telling with narrative structure. 
+    - This will live under the Templates folder shortly.
+- Revise data story telling with actual narrative structure. 
