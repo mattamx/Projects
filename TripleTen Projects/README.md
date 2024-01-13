@@ -5,10 +5,10 @@ All the cool projects I worked on during the TripleTen Data Science bootcamp. Yo
     - Once that is set, the larger workload will be on setting a notebook template throughout for standardization.
 
 | Sprint | Topic | Project Title | Notes
-| :---------------: | --------------- |--------------- |---------------
+| :---------------: | --------------- |--------------- |:---------------:
 | [17](<Sprint 17 - Final Project/README.md>) | Final Project | Predicting churn rates for a telecommunications company | -
 | [15](<Sprint 15 - Computer Vision/README.md>) | Computer Vision | Deploying computer vision for a supermarket chain | -
-| [14](<Sprint 14 - ML for Texts/README.md>) | Machine Learning for Texts | Detecting review sentiment for an online film community | Working on BERT model shortly + addition of word clouds
+| [14](<Sprint 14 - ML for Texts/README.md>) | Machine Learning for Texts | Detecting review sentiment for an online film community | Completed BERT model
 | [13](<Sprint 13 - Time Series/README.md>) | Time Series | Predicting hourly taxi orders for a taxi service company | -
 | [12](<Sprint 12 - Numerical Methods/README.md>) | Numerical Methods | Determining car market value for an used car sales service app | -
 | [11](<Sprint 11 - Linear Algebra/README.md>) | Linear Algebra | Prognosticating claims for an insurance benefits company | -
