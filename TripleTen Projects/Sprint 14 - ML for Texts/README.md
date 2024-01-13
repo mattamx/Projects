@@ -44,21 +44,26 @@ Through the use of tokenization and lemmatization via NLTK and spaCy, our achiev
 
     - `LGBM + spaCy`: **0.86**
     
+*We were able to achieve all of these scores without the need to tune or search for the optimal hyperparameters.*
 
-*We were able to achieve all of these scores without the need to tune or search for the optimial hyperparameters.*
+When we deployed BERT, our evaluation score wasn't as high as the others (even with hyperparameter tuning) but we do see how the model itself performs strongly with respect to the natural meaning of words when introducing a random and small sample of reviews.
+
+    - `BERT`: 0.75 (limited to 200 samples) / 0.81 (500 samples) / 0.81 (1000 samples)
 
 # Chart Examples
 
-![Alt text](images/newplot.png)
+![Alt text](images/newplot4.png)
 
-![Alt text](images/newplot1.png)
+![Alt text](images/newplot5.png)
 
 ![Alt text](images/newplot2.png)
 
 ![Alt text](images/newplot3.png)
 
+![Alt text](images/output5.png)
+
 Included is the full Notebook which breaks out the description of our results.
 
 # Plans for updates
 
-Graph aligned to Plotly was completed (from matplotlib) up next: compute results via the BERT model which was skipped over due to computational requirements.
+None at the moment.

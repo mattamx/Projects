@@ -28,7 +28,7 @@ All the cool projects I worked on during the TripleTen Data Science bootcamp. Yo
 <kbd> ![Alt text](<Sprint 5 - Integrated Project 1/images/newplot2.png>) </kbd> 
 <kbd> ![Alt text](<Sprint 5 - Integrated Project 1/images/newplot1.png>) </kbd> 
 <kbd> ![Alt text](<Sprint 12 - Numerical Methods/images/output2.png>) </kbd> 
-<kbd> ![Alt text](<Sprint 14 - ML for Texts/images/newplot1.png>) </kbd> 
+<kbd> ![Alt text](<Sprint 14 - ML for Texts/images/newplot5.png>) </kbd> 
 <kbd> ![image](https://github.com/mattamx/TripleTen_projects/blob/d5c9d5580743b32e3f0432b3d9916680bdd90473/Sprint%2014%20-%20ML%20for%20Texts/newplot.png) </kbd> 
 <kbd> ![image](https://github.com/mattamx/TripleTen_projects/assets/107958646/a959cf5c-6000-448d-9d26-ef5d97a29aec) </kbd> 
 <kbd> ![Alt text](<Sprint 6 - Data Collection and Storage (SQL)/images/newplot.png>) </kbd>
