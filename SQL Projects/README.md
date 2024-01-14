@@ -3,8 +3,8 @@
 ## Beginner
 | Project | Title | Notes
 | :---------------: | :---------------: |:---------------:
-| [1](<Analyzing Industry Carbon Emissions/notebook.ipynb>) | Analyzing Industry Carbon Emissions | ✔️
-| 2 | Analyzing students' mental health in SQL | 🚧
+| [1](<Analyzing Industry Carbon Emissions/notebook.ipynb>) | Analyzing Industry Carbon Emissions | -
+| [2](<Analyzing students' mental health in SQL/notebook.ipynb>) | Analyzing students' mental health in SQL | -
 | 3 | Analyzing motorcycle part sales | 🚧
 
 ## Intermediate
