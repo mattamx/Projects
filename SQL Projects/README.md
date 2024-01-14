@@ -2,5 +2,5 @@
 
 | Project | Title | Notes
 | :---------------: | :---------------: |:---------------:
-| 1 | Analyzing Industry Carbon Emissions | ✔️
+| [1](<Analyzing Industry Carbon Emissions/notebook.ipynb>) | Analyzing Industry Carbon Emissions | ✔️
 | 2 | TBD | 🚧
