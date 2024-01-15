@@ -1,11 +1,13 @@
 # SQL Projects <a> <img style="margin: 10px" src="https://github.com/mattamx/mattamx/assets/107958646/7502d57f-b9c8-4971-a2dc-42c05ee240c4" alt="SQL" height="35" /> </a> 
 
+Including readily available projects from the DataCamp platform. Aiming to include more as these are completed.
+
 ## Beginner
 | Project | Title | Notes
 | :---------------: | :---------------: |:---------------:
 | [1](<Analyzing Industry Carbon Emissions/notebook.ipynb>) | Analyzing Industry Carbon Emissions | -
 | [2](<Analyzing students' mental health in SQL/notebook.ipynb>) | Analyzing students' mental health in SQL | -
-| 3 | Analyzing motorcycle part sales | 🚧
+| [3](<Analyzing motorcycle part sales/notebook.ipynb>) | Analyzing motorcycle part sales | -
 
 ## Intermediate
 | Project | Title | Notes
