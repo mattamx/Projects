@@ -47,7 +47,7 @@ The data is spread across 3 files:
 - `description`: brief description of weather conditions, e.g. "light rain" or "scattered clouds"
 
 Schema
-![Alt text](<Image (3).png>)
+![Alt text](<images/Image (3).png>)
 
 Additional features:
 - `company_name`: taxi company name
