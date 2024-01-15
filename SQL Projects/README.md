@@ -12,7 +12,7 @@ Including readily available projects from the DataCamp platform. Aiming to inclu
 ## Intermediate
 | Project | Title | Notes
 | :---------------: | :---------------: |:---------------:
-| 1 | What and where are the world's oldest businesses? | 🚧
+| [1](<What and where are the world's oldest businesses?/notebook.ipynb>) | What and where are the world's oldest businesses? | -
 | 2 | Analyzing NYC public school test result scores | 🚧
 | 3 | Analyze international debt statistics | 🚧
 
