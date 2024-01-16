@@ -14,7 +14,7 @@ Including the projects I've completed on the DataCamp platform as I go through t
 | [7](<Visualizing the History of Nobel Prize Winners/notebook.ipynb>) | Visualizing the History of Nobel Prize Winners | -
 | [8](<Analyzing Crime in Los Angeles/notebook.ipynb>) | Analyzing Crime in Los Angeles | -
 | [9](https://github.com/mattamx/Projects/blob/5742089084f049df8cee1844f05b9daae2af18c4/DataCamp%20Projects/Customer%20Analytics%3A%20Preparing%20Data%20for%20Modeling/notebook.ipynb) | Customer Analytics: Preparing Data for Modeling | - 
-| [10](<Exploring Airbnb Market Trends/notebook.ipynb>) | Exploring Airbnb Market Trends | 🚧
+| [10](<Exploring Airbnb Market Trends/notebook.ipynb>) | Exploring Airbnb Market Trends | -
 | 11 | Modeling Car Insurance Claim Outcomes | 🚧
 | 12 | Hypothesis Testing with Men's and Women's Soccer Matches | 🚧
 | 13 | Predictive Modeling for Agriculture | 🚧
