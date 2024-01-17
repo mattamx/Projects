@@ -44,4 +44,4 @@ All the cool projects I worked on during the TripleTen Data Science bootcamp. Yo
     - Note: need to out a way to have Plotly illustration show up on GitHub.
 - Notebook templates in progress.
     - This will live under the Templates folder.
-    - Meant to provide structure to a [project's workflow](<../Templates/project workflow_draft.ipynb>) [story/written narratives](<../Templates/written report template.ipynb>) going forward. 
+    - Meant to provide structure to a [project's workflow](<../Templates/project workflow_draft.ipynb>) and [story/written narratives](<../Templates/written report template.ipynb>) going forward. 
