@@ -6,7 +6,7 @@ All the cool projects I worked on during the TripleTen Data Science bootcamp. Yo
 
 | Sprint | Topic | Project Title | Notes
 | :---------------: | :---------------: |--------------- |:---------------:
-| [17](<Sprint 17 - Final Project/README.md>) | Final Project | Predicting churn rates for a telecommunications company | Getting ready to create a proper, written report
+| [17](<Sprint 17 - Final Project/README.md>) | Final Project | Predicting churn rates for a telecommunications company | -
 | [15](<Sprint 15 - Computer Vision/README.md>) | Computer Vision | Deploying computer vision for a supermarket chain | -
 | [14](<Sprint 14 - ML for Texts/README.md>) | Machine Learning for Texts | Detecting review sentiment for an online film community | Completed BERT model
 | [13](<Sprint 13 - Time Series/README.md>) | Time Series | Predicting hourly taxi orders for a taxi service company | -
@@ -42,6 +42,6 @@ All the cool projects I worked on during the TripleTen Data Science bootcamp. Yo
 - Data clean-up and code condensation through the use various functions and methods.
 - Plotly/Seaborn visualization additions and further alignment to mirror work done in PowerPoint and Tableau.
     - Note: need to out a way to have Plotly illustration show up on GitHub.
-- Notebook template creation.
-    - This will live under the Templates folder shortly.
-- Revise data story telling with actual narrative structure. 
+- Notebook templates in progress.
+    - This will live under the Templates folder.
+    - Meant to provide structure to story/written narratives going forward. 
