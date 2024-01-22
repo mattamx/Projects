@@ -41,7 +41,7 @@ All the cool projects I worked on during the TripleTen Data Science bootcamp. Yo
 # Summary of planned updates
 - Data clean-up and code condensation through the use various functions and methods.
 - Plotly/Seaborn visualization additions and further alignment to mirror work done in PowerPoint and Tableau.
-    - Note: need to out a way to have Plotly illustration show up on GitHub.
+    - Note: need to figure out a way to have Plotly illustration show up on GitHub.
 - Notebook templates in progress.
     - This will live under the Templates folder.
     - Meant to provide structure to a [project's workflow](<../Templates/project workflow_draft.ipynb>) and [story/written narratives](<../Templates/written report template.ipynb>) going forward. 
