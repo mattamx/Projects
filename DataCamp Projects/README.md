@@ -16,7 +16,7 @@ Including the projects I've completed on the DataCamp platform as I go through t
 | [9](https://github.com/mattamx/Projects/blob/5742089084f049df8cee1844f05b9daae2af18c4/DataCamp%20Projects/Customer%20Analytics%3A%20Preparing%20Data%20for%20Modeling/notebook.ipynb) | Customer Analytics: Preparing Data for Modeling | Categorical transformations
 | [10](<Exploring Airbnb Market Trends/notebook.ipynb>) | Exploring Airbnb Market Trends | Merging from multiple flat files
 | [11](<Modeling Car Insurance Claim Outcomes/notebook.ipynb>) | Modeling Car Insurance Claim Outcomes | Leverages statsmodels
-| [12](<Hypothesis Testing with Men's and Women's Soccer Matches/notebook.ipynb>) | Hypothesis Testing with Men's and Women's Soccer Matches | -
+| [12](<Hypothesis Testing with Men's and Women's Soccer Matches/notebook.ipynb>) | Hypothesis Testing with Men's and Women's Soccer Matches | Uses the pingouin module to analyze a hypothesis test (using the Wilcoxon-Mann-Whitney test)
 | 13 | Predictive Modeling for Agriculture | 🚧
 | 14 | Clustering Antartic Penguin Species | 🚧
 | 15 | Predicting Movie Rental Durations | 🚧
