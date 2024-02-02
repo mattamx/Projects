@@ -6,7 +6,7 @@ All the cool projects I worked on during the TripleTen Data Science bootcamp. Yo
 
 | Sprint | Topic | Project Title | Notes
 | :---------------: | :---------------: |--------------- |:---------------:
-| [17](<Sprint 17 - Final Project/README.md>) | Final Project | Predicting churn rates for a telecommunications company | -
+| [17](<Sprint 17 - Final Project/README.md>) | Final Project | Predicting churn rates for a telecommunications company | Added KNeighborsClassifier
 | [15](<Sprint 15 - Computer Vision/README.md>) | Computer Vision | Deploying computer vision for a supermarket chain | -
 | [14](<Sprint 14 - ML for Texts/README.md>) | Machine Learning for Texts | Detecting review sentiment for an online film community | Completed BERT model
 | [13](<Sprint 13 - Time Series/README.md>) | Time Series | Predicting hourly taxi orders for a taxi service company | -
