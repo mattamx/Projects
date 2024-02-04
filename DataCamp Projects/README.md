@@ -17,7 +17,7 @@ Including the projects I've completed on the DataCamp platform as I go through t
 | [10](<Exploring Airbnb Market Trends/notebook.ipynb>) | Exploring Airbnb Market Trends | Merging from multiple flat files
 | [11](<Modeling Car Insurance Claim Outcomes/notebook.ipynb>) | Modeling Car Insurance Claim Outcomes | Leverages statsmodels
 | [12](<Hypothesis Testing with Men's and Women's Soccer Matches/notebook.ipynb>) | Hypothesis Testing with Men's and Women's Soccer Matches | Uses the pingouin module to analyze a hypothesis test (using the Wilcoxon-Mann-Whitney test)
-| 13 | Predictive Modeling for Agriculture | 🚧
+| [13](<Predictive Modeling for Agriculture/notebook.ipynb>) | Predictive Modeling for Agriculture | Uses LogisticRegression based on multicollinearity feature analysis
 | 14 | Clustering Antartic Penguin Species | 🚧
 | 15 | Predicting Movie Rental Durations | 🚧
 | 16 | Analyzing Students' Mental Health in SQL | 🚧
