@@ -26,13 +26,13 @@ The data is housed in one file:
 
 #### The Process
 
-As the data preprocessing step was previously completed (*see the project under the Statistical Data Analysis sprint*), we start with splitting the data into a training, validation and test sets. 
+As the data preprocessing step was previously completed (*see the project under the Statistical Data Analysis sprint*), we start with splitting the data into a training and test sets. 
 
-Models are trained and examined for overall quality followed by the further toggling of hyperparameters to understand the impacts.
+Models are trained and examined for overall quality followed by the further toggling of hyperparameters to understand the impacts (on test set).
 
 #### Results
 
-Through model hyperparameter tuning, iteratively searching for the best score/estimators in this instance, we achieve a final accuracy score of 79% when performing model evaluation using the test dataset.
+Through iteratively searching for the best score/estimators, we achieve a final accuracy score of 82% when performing model evaluation using the test dataset.
 
 # Chart Examples
 
