@@ -36,11 +36,11 @@ Through model hyperparameter tuning, iteratively searching for the best score/es
 
 # Chart Examples
 
-![Alt text](images/output1.png)
+![Alt text](images/output3.png)
 
-![Alt text](images/output.png)
+![Alt text](images/output4.png)
 
-![Alt text](images/output2.png)
+![Alt text](images/output5.png)
 
 Included is the full Notebook which breaks out the description of our results.
 
