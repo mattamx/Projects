@@ -16,7 +16,7 @@ All the cool projects I worked on during the TripleTen Data Science bootcamp. Yo
 | [10](<Sprint 10 - Integrated Project 2/README.md>) | Integrated Project 2 | Estimating gold recovery for a company that provides solutions to the mining industry | -
 | [9](<Sprint 9 - Machine Learning in Business/README.md>) | Machine Learning in Business | Searching for optimal mining wells through profit margins | -
 | [8](<Sprint 8 - Supervised Learning/README.md>) | Supervised Learning | Forecasting customer attrition for a bank | -
-| [7](<Sprint 7 - Introduction to ML/Intro to ML v2.ipynb>) | Introduction to Machine Learning | Analyzing subscriber behavior for a mobile carrier | v2 notebook complete
+| [7](<Sprint 7 - Introduction to ML/README.md>) | Introduction to Machine Learning | Analyzing subscriber behavior for a mobile carrier | [v2](<Sprint 7 - Introduction to ML/Intro to ML v2.ipynb>) notebook complete
 | [6](<Sprint 6 - Data Collection and Storage (SQL)/README.md>) | Data Collection and Storage (SQL) | Hypothesis Testing: Impact of external factors on taxi rides | -
 | [5](<Sprint 5 - Integrated Project 1/README.md>) | Integrated Project 1 | Hypothesis Testing: Patterns that determine a video game's success | -
 | [4](<Sprint 4 - Software Development Tools/README.md>) | Software Development Tools | Developing a web application through Render | -
