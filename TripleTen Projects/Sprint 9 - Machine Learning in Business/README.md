@@ -45,7 +45,9 @@ We then go into profit calculation, calculating the volume of reserves required 
 
 #### Results
 
-Using bootstrapping techniques, we found each region's the distribution of profit, average profit at the 95% confidence interval and risk of losses. Our initial findings first suggested the selection of Region 0 but after further implementing bootstrapping techniques we see a shift in the story towards Region 1 where the region is predicted to bring in the highest average revenue out of the three.
+Using bootstrapping techniques, we found each region's the distribution of profit, average profit at the 95% confidence interval and risk of losses. 
+
+Our initial findings first suggested the selection of Geography 2 and after further implementing bootstrapping techniques our initial thoughts were reinforced as that geography is predicted to bring in the highest average revenue out of the three.
 
 # Chart Examples
 

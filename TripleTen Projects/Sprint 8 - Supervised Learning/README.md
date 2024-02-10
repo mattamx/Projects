@@ -35,9 +35,11 @@ The data is housed in one file:
 
 #### The Process
 
-Our first step is to prepare our data for training with the preprocessing of all feature types, investigating the balance of classes and taking into account any missing values.
+Our first step is to prepare our data for training with the preprocessing of all feature types, investigating the balance of classes and taking into account any missing values. Due to a large imbalance in our classes, we deploy SMOTE resampling in order to adjust the proportionality. 
 
-We then plot AUC-ROC graphs, create confusion matrices and compute F1 metrics for various models. From these insights, we select the most optimal model (RandomForest Classifier) while diving further into class weight adjustments (via upsampling and downsampling techniques) and classification threshold comparisons that may help us achive the desired score.
+We then compare Cross-Val metrics for various models (w/o tuning) in order to select the most optimal model. 
+
+From these insights, we select the most optimal model (AdaBoost Classifier) and evaluation its performance on our test set. Achieving an F1-Score significantly above our target threshold. 
 
 #### Results
 
