@@ -59,7 +59,9 @@ Multiple models are built and evaluated using cross-validation, picking the best
 
 We first hone in on the best model option based on model scores (RandomForest Regressor) then further analyze the model through the RMSE metric to see how it handles newly introduced data, utilizing the RMSE of a dummy regressor model as benchmark for comparison.
 
-Based on the final sMAPE comparison between the RandomForestRegressor and the DummyRegressor model, we conclude that the RandomForestRegressor gives us a % error of ~25% when leveraging the test dataset (*compared to a nearly identical result from our DummyRegressor model*). And, when going one step further and analyzing the final sMAPE value on our train dataset, we find a ~7% error. Meaning our final sMAPE result on our test dataset introduces an +18% delta to our overall results/predictions. 
+Based on the final sMAPE comparison between the RandomForestRegressor and the DummyRegressor model, we conclude that the RandomForestRegressor gives us a % error of ~25% when leveraging the test dataset. 
+
+And, when going one step further and analyzing the final sMAPE value on our train dataset, we find a ~6% error. Meaning our final sMAPE result on our test dataset introduces an +19% delta to our overall results/predictions. 
 
 # Chart Examples
 
