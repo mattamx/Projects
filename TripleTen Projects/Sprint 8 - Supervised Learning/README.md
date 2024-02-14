@@ -1,4 +1,4 @@
-# TripleTen Sprint 8 - Supervised Learning
+# TripleTen Sprint 8 - [Supervised Learning](TripleTen Projects/Sprint 8 - Supervised Learning/Supervised Learning v2.ipynb)
 
 ### What we learned throughout the sprint:
 

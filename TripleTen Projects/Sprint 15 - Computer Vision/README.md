@@ -1,4 +1,4 @@
-# TripleTen Sprint 15 - Computer Vision
+# TripleTen Sprint 15 - [Computer Vision](TripleTen Projects/Sprint 15 - Computer Vision/Computer Vision.ipynb)
 
 ### What we learned throughout the sprint:
 

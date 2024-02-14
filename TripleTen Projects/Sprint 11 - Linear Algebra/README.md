@@ -1,4 +1,4 @@
-# TripleTen Sprint 11 - Linear Algebra
+# TripleTen Sprint 11 - [Linear Algebra](TripleTen Projects/Sprint 11 - Linear Algebra/Linear Algebra.ipynb)
 
 ### What we learned throughout the sprint:
 

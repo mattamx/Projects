@@ -1,4 +1,4 @@
-# TripleTen Sprint 3 - Statistical Data Analysis
+# TripleTen Sprint 3 - [Statistical Data Analysis](TripleTen Projects/Sprint 3 - Statistical Data Analysis/Statistical Data Analysis.ipynb)
 
 ### What we learned throughout the sprint:
 

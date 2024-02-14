@@ -1,4 +1,4 @@
-# TripleTen Sprint 6 - Data Collection and Storage (SQL)
+# TripleTen Sprint 6 - [Data Collection and Storage (SQL)](TripleTen Projects/Sprint 6 - Data Collection and Storage (SQL)/SQL.ipynb
 
 ### What we learned throughout the sprint:
 

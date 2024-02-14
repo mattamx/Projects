@@ -1,4 +1,4 @@
-# TripleTen Sprint 7 - Introduction to Machine Learning
+# TripleTen Sprint 7 - [Introduction to Machine Learning](TripleTen Projects/Sprint 7 - Introduction to ML/Intro to ML v2.ipynb)
 
 ### What we learned throughout the sprint:
 

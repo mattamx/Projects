@@ -1,4 +1,4 @@
-# TripleTen Sprint 10 - Integrated Project 2
+# TripleTen Sprint 10 - [Integrated Project 2](TripleTen Projects/Sprint 10 - Integrated Project 2/Integrated Project 2 v2.ipynb)
 
 ### What we learned throughout the sprint:
 

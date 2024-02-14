@@ -1,4 +1,4 @@
-# TripleTen Sprint 5 - Integrated Project 1
+# TripleTen Sprint 5 - [Integrated Project 1](TripleTen Projects/Sprint 5 - Integrated Project 1/Integrated Project 1.ipynb)
 
 ### What we learned throughout the sprint:
 

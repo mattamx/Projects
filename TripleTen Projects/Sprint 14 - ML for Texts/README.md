@@ -1,4 +1,4 @@
-# TripleTen Sprint 14 - ML for Text
+# TripleTen Sprint 14 - [ML for Text](TripleTen Projects/Sprint 14 - ML for Texts/ml-for-texts.ipynb)
 
 ### What we learned throughout the sprint:
 
