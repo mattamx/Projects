@@ -15,7 +15,7 @@ Prepare a machine learning model for the company wwhich predicts the amount of g
 
 #### The Data
 
-The data is spread across three files:
+The data is spread across three files: 
 
 - Data is indexed with the date and time of acquisition (`date` feature). 
 - Parameters that are next to each other in terms of time are often similar.
