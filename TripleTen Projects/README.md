@@ -13,7 +13,7 @@ All the cool projects I worked on during the TripleTen Data Science bootcamp. Yo
 | [13](<Sprint 13 - Time Series/README.md>) | Time Series | Predicting hourly taxi orders for a taxi service company | -
 | [12](<Sprint 12 - Numerical Methods/README.md>) | Numerical Methods | Determining car market value for an used car sales service app | -
 | [11](<Sprint 11 - Linear Algebra/README.md>) | Linear Algebra | Prognosticating claims for an insurance benefits company | Incorporated charts on Feature Selection based on Lasso
-| [10](<Sprint 10 - Integrated Project 2/README.md>) | Integrated Project 2 | Estimating gold recovery for a company that provides solutions to the mining industry | v2 notebook in progress
+| [10](<Sprint 10 - Integrated Project 2/README.md>) | Integrated Project 2 | Estimating gold recovery for a company that provides solutions to the mining industry | [v2](<Sprint 10 - Integrated Project 2/Integrated Project 2 v2.ipynb>) notebook complete
 | [9](<Sprint 9 - Machine Learning in Business/README.md>) | Machine Learning in Business | Searching for optimal mining wells through profit margins | [v2](<Sprint 9 - Machine Learning in Business/ML in Business v2.ipynb>) notebook complete
 | [8](<Sprint 8 - Supervised Learning/README.md>) | Supervised Learning | Forecasting customer attrition for a bank | [v2](<Sprint 8 - Supervised Learning/Supervised Learning v2.ipynb>) notebook complete
 | [7](<Sprint 7 - Introduction to ML/README.md>) | Introduction to Machine Learning | Analyzing subscriber behavior for a mobile carrier | [v2](<Sprint 7 - Introduction to ML/Intro to ML v2.ipynb>) notebook complete
