@@ -65,15 +65,13 @@ And, when going one step further and analyzing the final sMAPE value on our trai
 
 # Chart Examples
 
-![Alt text](images/newplot.png)
+![Alt text](images/output.png)
 
-![Alt text](images/newplot2.png)
+![Alt text](images/output1.png)
 
-![Alt text](images/newplot3.png)
+![Alt text](images/output2.png)
 
-![Alt text](images/newplot4.png)
-
-![Alt text](images/newplot5.png)
+![Alt text](images/output3.png)
 
 Included is the full Notebook which breaks out the description of our results.
 
