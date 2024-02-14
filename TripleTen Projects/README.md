@@ -13,7 +13,7 @@ All the cool projects I worked on during the TripleTen Data Science bootcamp. Yo
 | [13](<Sprint 13 - Time Series/README.md>) | Time Series | Predicting hourly taxi orders for a taxi service company | -
 | [12](<Sprint 12 - Numerical Methods/README.md>) | Numerical Methods | Determining car market value for an used car sales service app | -
 | [11](<Sprint 11 - Linear Algebra/README.md>) | Linear Algebra | Prognosticating claims for an insurance benefits company | Incorporated charts on Feature Selection based on Lasso
-| [10](<Sprint 10 - Integrated Project 2/README.md>) | Integrated Project 2 | Estimating gold recovery for a company that provides solutions to the mining industry | -
+| [10](<Sprint 10 - Integrated Project 2/README.md>) | Integrated Project 2 | Estimating gold recovery for a company that provides solutions to the mining industry | v2 notebook in progress
 | [9](<Sprint 9 - Machine Learning in Business/README.md>) | Machine Learning in Business | Searching for optimal mining wells through profit margins | [v2](<Sprint 9 - Machine Learning in Business/ML in Business v2.ipynb>) notebook complete
 | [8](<Sprint 8 - Supervised Learning/README.md>) | Supervised Learning | Forecasting customer attrition for a bank | [v2](<Sprint 8 - Supervised Learning/Supervised Learning v2.ipynb>) notebook complete
 | [7](<Sprint 7 - Introduction to ML/README.md>) | Introduction to Machine Learning | Analyzing subscriber behavior for a mobile carrier | [v2](<Sprint 7 - Introduction to ML/Intro to ML v2.ipynb>) notebook complete
@@ -22,7 +22,7 @@ All the cool projects I worked on during the TripleTen Data Science bootcamp. Yo
 | [4](<Sprint 4 - Software Development Tools/README.md>) | Software Development Tools | Developing a web application through Render | -
 | [3](<Sprint 3 - Statistical Data Analysis/README.md>) | Statistical Data Analysis | Hypothesis Testing: Revenue analysis for subscriber plans | -
 | [2](<Sprint 2 - Exploratory Data Analysis (EDA)/README.md>) | Exploratory Data Analysis | Customer shopping habit insights for the Instacart platform | -
-| [1](<Sprint 1 - Working with Data in Python/README.md>) | Basic Python | Music preferences across cities | -
+| [1](<Sprint 1 - Working with Data in Python/README.md>) | Basic Python | Music preferences across cities | v2 notebook in progress
 
 # Chart Samples
 <kbd> ![Alt text](<Sprint 5 - Integrated Project 1/images/output1.png>) </kbd> 
