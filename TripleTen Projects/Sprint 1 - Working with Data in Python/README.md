@@ -1,4 +1,4 @@
-# TripleTen Sprint 1 - [Basic Python](Basic%20Python.ipynb)
+# TripleTen Sprint 1 - [Basic Python](Basic%20Python%20v2.ipynb)
 
 ### What we learned throughout the sprint:
 
@@ -39,11 +39,15 @@ The quality of the data is evaluated on whether its issues (if any) are signific
 
 #### Results
 
-Through data analysis (leveraging pre-coded cells) we tested three hypotheses, accepting our first hypothesis while rejecting the two remaining. 
+Through data analysis we tested three hypotheses, accepting our first hypothesis while rejecting the two remaining without the usage of t-tests or z-scores (part of the later projects).
 
 # Chart Examples
 
-*To be updated*
+![Alt text](images/output.png)
+
+![Alt text](images/output1.png)
+
+![Alt text](images/output2.png)
 
 Included is the full Notebook which breaks out the description of our results.
 
