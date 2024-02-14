@@ -1,4 +1,4 @@
-# TripleTen Sprint 1 - [Basic Python](TripleTen Projects/Sprint 1 - Working with Data in Python/Basic Python.ipynb)
+# TripleTen Sprint 1 - [Basic Python](Basic%20Python.ipynb)
 
 ### What we learned throughout the sprint:
 

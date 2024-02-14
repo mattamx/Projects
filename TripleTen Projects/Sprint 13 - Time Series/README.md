@@ -1,4 +1,4 @@
-# TripleTen Sprint 13 - [Time Series](TripleTen Projects/Sprint 13 - Time Series/time-series.ipynb)
+# TripleTen Sprint 13 - [Time Series](time-series.ipynb)
 
 ### What we learned throughout the sprint:
 

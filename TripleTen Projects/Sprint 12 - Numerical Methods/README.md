@@ -1,4 +1,4 @@
-# TripleTen Sprint 12 - [Numerical Methods](TripleTen Projects/Sprint 12 - Numerical Methods/Numerical Methods.ipynb)
+# TripleTen Sprint 12 - [Numerical Methods](Numerical%20Methods.ipynb)
 
 ### What we learned throughout the sprint:
 

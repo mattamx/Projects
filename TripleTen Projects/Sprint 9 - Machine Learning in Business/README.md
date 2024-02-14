@@ -1,4 +1,4 @@
-# TripleTen Sprint 9 - [Machine Learning in Business](TripleTen Projects/Sprint 9 - Machine Learning in Business/ML in Business v2.ipynb)
+# TripleTen Sprint 9 - [Machine Learning in Business](ML%20in%20Business%20v2.ipynb)
 
 ### What we learned throughout the sprint:
 

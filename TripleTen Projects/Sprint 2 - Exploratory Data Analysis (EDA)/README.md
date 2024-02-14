@@ -1,4 +1,4 @@
-# TripleTen Sprint 2 - [Exploratory Data Analysis](TripleTen Projects/Sprint 2 - Exploratory Data Analysis (EDA)/Exploratory Data Analysis.ipynb)
+# TripleTen Sprint 2 - [Exploratory Data Analysis](Exploratory%20Data%20Analysis.ipynb)
 
 ### What we learned throughout the sprint:
 
