@@ -2,6 +2,7 @@
 All the cool projects I worked on during the TripleTen Data Science bootcamp. You'll track my evolution as I progress and learn more complex topics. You'll find me experimenting with various methods of exploratory data analysis, visualizations and machine learning throughout the sprints. 
 
 - Since this was all part-time, I didn't get a chance to implement other methods of analysis or visualizations that I studied throughout the course or have since learned. The aim is to add more statistical analyses/summaries as well as model visualizations.
+    
     - You'll soon start to see 'v2' notebooks pop up for each Sprint. These will include enhancements and much needed organization throughout. 
 
 | Sprint | Topic | Project Title | Notes
