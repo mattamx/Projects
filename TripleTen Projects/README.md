@@ -2,7 +2,6 @@
 All the cool projects I worked on during the TripleTen Data Science bootcamp. You'll track my evolution as I progress and learn more complex topics. You'll find me experimenting with various methods of exploratory data analysis, visualizations and machine learning throughout the sprints. 
 
 - Since this was all part-time, I didn't get a chance to implement other methods of analysis or visualizations that I studied throughout the course or have since learned. The aim is to add more statistical analyses/summaries as well as model visualizations.
-    - Once that is set, the larger workload will be on setting a notebook template throughout for standardization. 
     - You'll soon start to see 'v2' notebooks pop up for each Sprint. These will include enhancements and much needed organization throughout. 
 
 | Sprint | Topic | Project Title | Notes
@@ -40,9 +39,8 @@ All the cool projects I worked on during the TripleTen Data Science bootcamp. Yo
 <kbd> ![Alt text](<Sprint 17 - Final Project/images/newplot6.png>) </kbd> 
 
 # Summary of planned updates
-- Data clean-up and code condensation through the use various functions and methods.
-- Plotly/Seaborn visualization additions and further alignment to mirror work done in PowerPoint and Tableau.
-    - Note: need to figure out a way to have Plotly illustration show up on GitHub.
+- Data clean-up and code condensation.
+- Visualization clean-up.
+    - Removing Plotly and staying with Seaborn/Matplotlib for these projects.
 - Notebook templates in progress.
-    - This will live under the Templates folder.
-    - Meant to provide structure to a [project's workflow](<../Templates/project workflow_draft.ipynb>) and [story/written narratives](<../Templates/written report template.ipynb>) going forward. 
+    - Meant to provide structure to a [project's workflow](<../Templates/project workflow_draft.ipynb>) and [story/written narratives](<../Templates/written report template.ipynb>) going forward for large projects. 
