@@ -1,4 +1,4 @@
-# TripleTen Sprint 2 - [Exploratory Data Analysis](Exploratory%20Data%20Analysis.ipynb)
+# TripleTen Sprint 2 - [Exploratory Data Analysis](Exploratory%20Data%20Analysis%20v2.ipynb)
 
 ### What we learned throughout the sprint:
 
@@ -13,7 +13,7 @@ A grocery delivery platform wants further insight into the shopping habits of it
 
 #### Task
 
-Clean-up the data, prepare an insight report an create plots to communicate your results.
+Clean-up the data, prepare an insight report and create plots to communicate the results.
 
 #### The Data
 
@@ -54,7 +54,9 @@ This project was broken out a few steps:
 
 #### Results
 
-Customers like to place order to start the week, peaking early during the week with some continous drop off as the week goes by. The same can be said about order time, we see heightened volume to start the morning into the mid-afternoon. With that said, the frequency of orders does not show you the story of the actual amount of items being purchased.
+Customers like to place order to start the week, peaking early during the week with some continuous drop off as the week goes by. The same can be said about order time, we see heightened volume to start the morning into the mid-afternoon. 
+
+With that said, the frequency of orders does not show you the story of the actual amount of items being purchased.
 
 Once you dive into that dataset, we see mostly smaller (<12 items) purchases making up the largest share of the volume. With bananas and breakfast type food leading the pack in terms of items ordered in aggregate.
 
@@ -65,6 +67,10 @@ All in all, instacart seems to serve as a good introduction to online ordering t
 ![Alt text](images/output.png)
 
 ![Alt text](images/output1.png)
+
+![Alt text](images/output2.png)
+
+![Alt text](images/output3.png)
 
 Included is the full Notebook which breaks out the description of our results.
 

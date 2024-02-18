@@ -21,7 +21,7 @@ All the cool projects I worked on during the TripleTen Data Science bootcamp. Yo
 | [5](<Sprint 5 - Integrated Project 1/README.md>) | Integrated Project 1 | Hypothesis Testing: Patterns that determine a video game's success | -
 | [4](<Sprint 4 - Software Development Tools/README.md>) | Software Development Tools | Developing a web application through Render | -
 | [3](<Sprint 3 - Statistical Data Analysis/README.md>) | Statistical Data Analysis | Hypothesis Testing: Revenue analysis for subscriber plans | -
-| [2](<Sprint 2 - Exploratory Data Analysis (EDA)/README.md>) | Exploratory Data Analysis | Customer shopping habit insights for the Instacart platform | v2 notebook in progress
+| [2](<Sprint 2 - Exploratory Data Analysis (EDA)/README.md>) | Exploratory Data Analysis | Customer shopping habit insights for the Instacart platform | [v2](<Sprint 2 - Exploratory Data Analysis (EDA)/Exploratory Data Analysis v2.ipynb>) notebook complete
 | [1](<Sprint 1 - Working with Data in Python/README.md>) | Basic Python | Music preferences across cities | [v2](<Sprint 1 - Working with Data in Python/Basic Python v2.ipynb>) notebook complete
 
 # Chart Samples
