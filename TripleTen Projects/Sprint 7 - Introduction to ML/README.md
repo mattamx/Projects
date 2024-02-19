@@ -36,6 +36,8 @@ Through iteratively searching for the best score/estimators, we achieve a final 
 
 # Chart Examples
 
+![Alt text](images/output.png)
+
 ![Alt text](images/output3.png)
 
 ![Alt text](images/output4.png)
